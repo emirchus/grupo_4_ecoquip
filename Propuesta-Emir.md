@@ -47,7 +47,7 @@ https://dribbble.com/shots/18935225-Ageman-Fashion-Product-Shopify-Template
 <img src="https://cdn.dribbble.com/userupload/3226417/file/original-f58697b13a0052e1825bf78029431f65.png?compress=1&resize=1024x768">
 
 Diseño Mobile:
-<img src="https://dribbble.com/shots/20752851--Modern-e-commerce-fashion-app-concept>
-<img src="https://dribbble.com/shots/19828777-E-commerce-Mobile-Application>
+<img src="https://dribbble.com/shots/20752851--Modern-e-commerce-fashion-app-concept">
+<img src="https://dribbble.com/shots/19828777-E-commerce-Mobile-Application">
 
 
