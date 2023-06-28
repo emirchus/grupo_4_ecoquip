@@ -28,8 +28,10 @@ https://coolors.co/palette/dad7cd-a3b18a-588157-3a5a40-344e41
 
 Diseños:
 https://dribbble.com/shots/21349166-Sport-website-concept
-<img scr="https://cdn.dribbble.com/userupload/6691706/file/original-f18cd2d3e727e2afacf58191111ba3b0.jpg?compress=1&resize=1024x768">
+<img src="https://cdn.dribbble.com/userupload/6691706/file/original-f18cd2d3e727e2afacf58191111ba3b0.jpg?compress=1&resize=1024x768">
+
 https://dribbble.com/shots/3898029-Stile-Theme-Homepage
-<img scr="https://cdn.dribbble.com/users/34556/screenshots/3898029/stile-dribbble2332.jpg?compress=1&resize=800x600&vertical=center">
+<img src="https://cdn.dribbble.com/users/34556/screenshots/3898029/stile-dribbble2332.jpg?compress=1&resize=800x600&vertical=center">
+
 https://dribbble.com/shots/2523984-Day-071-Adidas-Store-Yeezy
-<img scr="https://cdn.dribbble.com/users/538067/screenshots/2523984/media/b9e8dc5149933b245c0e1645ae970ef5.png?compress=1&resize=800x600&vertical=center">
+<img src="https://cdn.dribbble.com/users/538067/screenshots/2523984/media/b9e8dc5149933b245c0e1645ae970ef5.png?compress=1&resize=800x600&vertical=center">
