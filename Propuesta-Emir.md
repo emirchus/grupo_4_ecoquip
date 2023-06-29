@@ -50,4 +50,28 @@ Diseño Mobile:
 https://dribbble.com/shots/20752851--Modern-e-commerce-fashion-app-concept
 https://dribbble.com/shots/19828777-E-commerce-Mobile-Application
 
+## Popuesta Mica
+
+Colores:
+* #A4ABBF
+* #5D8AA6
+* #027333
+* #038C33
+* #260F01
+
+Agrego paleta de colores e inspiración:
+https://color.adobe.com/es/search?q=camping&t=term
+https://www.behance.net/gallery/84635485/Melou-Supply-Co
+
+Diseño web:
+https://dribbble.com/shots/20825561-Furniture-E-commerce-Website-Animation
+
+Diseño Mobile
+https://dribbble.com/shots/17378739-Store-Shoes-Mobile-app
+
+
+
+
+
+
 
