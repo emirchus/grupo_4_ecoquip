@@ -35,3 +35,19 @@ https://dribbble.com/shots/3898029-Stile-Theme-Homepage
 
 https://dribbble.com/shots/2523984-Day-071-Adidas-Store-Yeezy
 <img src="https://cdn.dribbble.com/users/538067/screenshots/2523984/media/b9e8dc5149933b245c0e1645ae970ef5.png?compress=1&resize=800x600&vertical=center">
+
+
+## Propuesta Vero:
+
+Agrego paleta:
+https://coolors.co/palette/606c38-283618-fefae0-dda15e-bc6c25
+
+Diseño web:
+https://dribbble.com/shots/18935225-Ageman-Fashion-Product-Shopify-Template
+<img src="https://cdn.dribbble.com/userupload/3226417/file/original-f58697b13a0052e1825bf78029431f65.png?compress=1&resize=1024x768">
+
+Diseño Mobile:
+https://dribbble.com/shots/20752851--Modern-e-commerce-fashion-app-concept
+https://dribbble.com/shots/19828777-E-commerce-Mobile-Application
+
+
