@@ -70,6 +70,23 @@ Diseño Mobile
 https://dribbble.com/shots/17378739-Store-Shoes-Mobile-app
 
 
+## Propuesta Nahiara
+
+Paletas de colores:
+#90A955
+#31572C
+#a4ac86
+#718355
+
+Diseños:
+web: https://dribbble.com/shots/21538030-Hem-Furniture-Brand-Website 
+<img src= "https://cdn.dribbble.com/userupload/7235032/file/original-61019feaff5368ae38cca48e8781b31c.png?compress=1&resize=850x638">
+
+mobile: https://dribbble.com/shots/21244204-Furniture-store-Mobile-app 
+<img src= "https://cdn.dribbble.com/userupload/6386525/file/original-18fed5e88994aeb46de75befcfc467b4.png?compress=1&resize=1024x768">
+
+
+
 
 
 
