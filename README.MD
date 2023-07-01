@@ -41,4 +41,7 @@ yarn dev
 * Emir Ali
 
 ## Inspiración
+*<strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> => Presentación de productos relacionados a nuestra temática.
+
+
 
