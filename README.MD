@@ -43,5 +43,19 @@ yarn dev
 ## Inspiración
 *<strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> => Presentación de productos relacionados a nuestra temática.
 
+*<strong><a href="https://www.blissworld.com/">BlissWorld</a></strong>
+
+*<strong><a href="https://shopdressup.com/">DressUp</a></strong>
+
+*<strong><a href="https://www.chubbiesshorts.com/">Chubbies</a></strong>
+
+*<strong><a href="https://www.decibullz.com/ ">Deci</a></strong> <-----
+
+*<strong><a href="https://www.ediblearrangements.com/">Ediblear</a></strong>
+
+*<strong><a href="https://stayhomeclub.com/">SHC</a></strong>
+
+
+
 
 
