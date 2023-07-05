@@ -18,6 +18,7 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 ![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/botella%20eco%20copia.png)
 ![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/botella_eco.png)
 
+
 ## Wideframes
 ⚙️ Home (desktop) →
 
@@ -39,13 +40,6 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 ⚙️ Carrito (mobile) →
 
-
-
-## Autores
-👩🏻 Micaela Salazar
-👩🏻 Veronica Ramirez
-🧑🏻 Hernán Carreñó
-🧑🏻 Emir Ali
 
 ## Inspiración
 🚀 <strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> → Presentación de productos relacionados a nuestra temática.
@@ -69,8 +63,11 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 🚀 <strong><a href="https://stayhomeclub.com/">SHC</a></strong> → Distribución y diseño de página.
 
 
+## Autores
+👩🏻 Micaela Salazar
 
+👩🏻 Veronica Ramirez
 
+🧑🏻 Hernán Carreñó
 
-
-
+🧑🏻 Emir Ali
