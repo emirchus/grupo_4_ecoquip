@@ -16,31 +16,31 @@ Nuestro público objetivo son personas jóvenes y audaces con un espíritu avent
 Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equiparte y disfrutar al máximo de tus actividades al aire libre. Únete a nuestra comunidad de amantes del outdoor y descubre un mundo de aventuras esperándote.
 
 ## Autores
-* Micaela Salazar
-* Veronica Ramirez
-* Hernán Carreñó
-* Emir Ali
+👩🏻 Micaela Salazar
+👩🏻 Veronica Ramirez
+🧑🏻 Hernán Carreñó
+🧑🏻 Emir Ali
 
 ## Inspiración
-*<strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> => Presentación de productos relacionados a nuestra temática.
+🚀 <strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> => Presentación de productos relacionados a nuestra temática.
 
-*<strong><a href="https://www.stanley-pmi.com.ar/">Stanley AR</a></strong> => Producto relacionado.
+🚀 <strong><a href="https://www.stanley-pmi.com.ar/">Stanley AR</a></strong> => Producto relacionado.
 
-*<strong><a href="https://thermos.com/">Thermos</a></strong> => Producto relacionado.
+🚀 <strong><a href="https://thermos.com/">Thermos</a></strong> => Producto relacionado.
 
-*<strong><a href="https://aladdin-sustain.com/">Aladdin</a></strong> => Producto relacionado.
+🚀 <strong><a href="https://aladdin-sustain.com/">Aladdin</a></strong> => Producto relacionado.
 
-*<strong><a href="https://www.blissworld.com/">BlissWorld</a></strong> => Distribución y diseño de página.
+🚀 <strong><a href="https://www.blissworld.com/">BlissWorld</a></strong> => Distribución y diseño de página.
 
-*<strong><a href="https://shopdressup.com/">DressUp</a></strong> => Diseño de carritp de compras.  Distribución y diseño de página.
+🚀 <strong><a href="https://shopdressup.com/">DressUp</a></strong> => Diseño de carritp de compras.  Distribución y diseño de página.
 
-*<strong><a href="https://www.chubbiesshorts.com/">Chubbies</a></strong> => Estetica de imagenes.  Distribución y diseño de página.
+🚀 <strong><a href="https://www.chubbiesshorts.com/">Chubbies</a></strong> => Estetica de imagenes.  Distribución y diseño de página.
 
-*<strong><a href="https://www.decibullz.com/ ">Deci</a></strong> => Diseño innovador. Distribución y diseño de página.
+🚀 <strong><a href="https://www.decibullz.com/ ">Deci</a></strong> => Diseño innovador. Distribución y diseño de página.
 
-*<strong><a href="https://www.ediblearrangements.com/">Ediblear</a></strong> => Diseño Producto.  Distribución y diseño de página.
+🚀 <strong><a href="https://www.ediblearrangements.com/">Ediblear</a></strong> => Diseño Producto.  Distribución y diseño de página.
 
-*<strong><a href="https://stayhomeclub.com/">SHC</a></strong> => Distribución y diseño de página.
+🚀 <strong><a href="https://stayhomeclub.com/">SHC</a></strong> => Distribución y diseño de página.
 
 
 
