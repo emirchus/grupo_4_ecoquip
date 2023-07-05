@@ -18,6 +18,19 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 ![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/botella%20eco%20copia.png)
 ![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/botella_eco.png)
 
+## Wideframes →
+⚙️ Home (desktop) →
+⚙️ Home (mobile) →
+⚙️ Sign In (desktop) →
+⚙️ Sign In (mobile) →
+⚙️ Sign Up (desktop) →
+⚙️ Sign Up (mobile) →
+⚙️ Producto (desktop) →
+⚙️ Producto (mobile) →
+⚙️ Carrito (desktop) →
+⚙️ Carrito (mobile) →
+
+
 ## Autores
 👩🏻 Micaela Salazar
 👩🏻 Veronica Ramirez
