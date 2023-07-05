@@ -16,6 +16,7 @@ Nuestro público objetivo son personas jóvenes y audaces con un espíritu avent
 Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equiparte y disfrutar al máximo de tus actividades al aire libre. Únete a nuestra comunidad de amantes del outdoor y descubre un mundo de aventuras esperándote.
 
 ![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/botella%20eco%20copia.png)
+![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/botella_eco.png)
 
 ## Autores
 👩🏻 Micaela Salazar
