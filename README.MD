@@ -20,15 +20,25 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 ## Wideframes →
 ⚙️ Home (desktop) →
+
 ⚙️ Home (mobile) →
+
 ⚙️ Sign In (desktop) →
+
 ⚙️ Sign In (mobile) →
+
 ⚙️ Sign Up (desktop) →
+
 ⚙️ Sign Up (mobile) →
+
 ⚙️ Producto (desktop) →
+
 ⚙️ Producto (mobile) →
+
 ⚙️ Carrito (desktop) →
+
 ⚙️ Carrito (mobile) →
+
 
 
 ## Autores
