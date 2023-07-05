@@ -66,6 +66,8 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 ## Autores
 👩🏻 Micaela Salazar
 
+👩🏻 Nahiara Romero
+
 👩🏻 Veronica Ramirez
 
 🧑🏻 Hernán Carreñó
