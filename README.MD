@@ -22,25 +22,25 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 🧑🏻 Emir Ali
 
 ## Inspiración
-🚀 <strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> => Presentación de productos relacionados a nuestra temática.
+🚀 <strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> → Presentación de productos relacionados a nuestra temática.
 
-🚀 <strong><a href="https://www.stanley-pmi.com.ar/">Stanley AR</a></strong> => Producto relacionado.
+🚀 <strong><a href="https://www.stanley-pmi.com.ar/">Stanley AR</a></strong> → Producto relacionado.
 
-🚀 <strong><a href="https://thermos.com/">Thermos</a></strong> => Producto relacionado.
+🚀 <strong><a href="https://thermos.com/">Thermos</a></strong> → Producto relacionado.
 
-🚀 <strong><a href="https://aladdin-sustain.com/">Aladdin</a></strong> => Producto relacionado.
+🚀 <strong><a href="https://aladdin-sustain.com/">Aladdin</a></strong> → Producto relacionado.
 
-🚀 <strong><a href="https://www.blissworld.com/">BlissWorld</a></strong> => Distribución y diseño de página.
+🚀 <strong><a href="https://www.blissworld.com/">BlissWorld</a></strong> → Distribución y diseño de página.
 
-🚀 <strong><a href="https://shopdressup.com/">DressUp</a></strong> => Diseño de carritp de compras.  Distribución y diseño de página.
+🚀 <strong><a href="https://shopdressup.com/">DressUp</a></strong> → Diseño de carritp de compras.  Distribución y diseño de página.
 
-🚀 <strong><a href="https://www.chubbiesshorts.com/">Chubbies</a></strong> => Estetica de imagenes.  Distribución y diseño de página.
+🚀 <strong><a href="https://www.chubbiesshorts.com/">Chubbies</a></strong> → Estetica de imagenes.  Distribución y diseño de página.
 
-🚀 <strong><a href="https://www.decibullz.com/ ">Deci</a></strong> => Diseño innovador. Distribución y diseño de página.
+🚀 <strong><a href="https://www.decibullz.com/ ">Deci</a></strong> → Diseño innovador. Distribución y diseño de página.
 
-🚀 <strong><a href="https://www.ediblearrangements.com/">Ediblear</a></strong> => Diseño Producto.  Distribución y diseño de página.
+🚀 <strong><a href="https://www.ediblearrangements.com/">Ediblear</a></strong> → Diseño Producto.  Distribución y diseño de página.
 
-🚀 <strong><a href="https://stayhomeclub.com/">SHC</a></strong> => Distribución y diseño de página.
+🚀 <strong><a href="https://stayhomeclub.com/">SHC</a></strong> → Distribución y diseño de página.
 
 
 
