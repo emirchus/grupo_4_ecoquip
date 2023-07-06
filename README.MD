@@ -64,12 +64,12 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 
 ## Autores
-👩🏻 Micaela Salazar
+👩🏻 Micaela Salazar - 🐱 @micasalazar 🐙
 
-👩🏻 Nahiara Romero
+👩🏻 Nahiara Romero - 🐱 @nahiararomero 🐙
 
-👩🏻 Veronica Ramirez
+👩🏻 Veronica Ramirez - 🐱 @RamirezVero 🐙
 
-🧑🏻 Hernán Carreñó
+🧑🏻 Hernán Carreño - 🐱 @hernancarreno01 🐙
 
-🧑🏻 Emir Ali
+🧑🏻 Emir Ali - 🐱 @emirchus 🐙
