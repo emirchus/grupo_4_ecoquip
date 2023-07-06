@@ -64,7 +64,7 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 
 ## Autores
-👩🏻 Micaela Salazar - 🐱 @micasalazar 🐙
+👩🏻 <a href="https://github.com/micasalazar">Micaela Salaza</a>
 
 👩🏻 Nahiara Romero - 🐱 @nahiararomero 🐙
 
