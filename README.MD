@@ -20,17 +20,17 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 
 ## Wideframes
-🏠 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wideframe/EcoEquip%20-%20Home%20Desktop.pdf">Home (desktop version)</a></strong>
+🏠 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Home%20Desktop.pdf">Home (desktop version)</a></strong>
 
-🏠 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wideframe/EcoEquip%20-%20Home%20Mobile.pdf">Home (mobile version)</a></strong>
+🏠 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Home%20Mobile.pdf">Home (mobile version)</a></strong>
 
-🔑 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wideframe/EcoEquip%20-%20Sign%20In%20Desktop%26Mobile.pdf">Sign In (desktop & mobile version)</a></strong>
+🔑 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Sign%20In%20Desktop%26Mobile.pdf">Sign In (desktop & mobile version)</a></strong>
 
-✏️ <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wideframe/EcoEquip%20-%20Sign%20Up%20Desktop%26Mobile.pdf">Sign Up (desktop & mobile version)</a></strong>
+✏️ <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Sign%20Up%20Desktop%26Mobile.pdf">Sign Up (desktop & mobile version)</a></strong>
 
-🧴 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wideframe/EcoEquip%20-%20Producto%20Desktop%26Mobile.pdf"> Producto (desktop & mobile version)</a></strong>
+🧴 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Producto%20Desktop%26Mobile.pdf"> Producto (desktop & mobile version)</a></strong>
 
-🛒 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wideframe/EcoEquip%20-%20Carrito%20Desktop%26Mobile.pdf">Carrito de Compras (desktop & mobile version)</a></strong>
+🛒 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Carrito%20Desktop%26Mobile.pdf">Carrito de Compras (desktop & mobile version)</a></strong>
 
 ## Inspiración
 🚀 <strong><a href="https://www.jack-wolfskin.com/">Jack Wolfskin</a></strong> → Presentación de productos relacionados a nuestra temática.
