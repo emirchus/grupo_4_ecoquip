@@ -53,7 +53,6 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 🚀 <strong><a href="https://stayhomeclub.com/">SHC</a></strong> → Distribución y diseño de página.
 
-
 ## Autores - Grupo #4 - EcoEquip
 👩🏻 <strong><a href="https://github.com/micasalazar">Micaela Salazar</a></strong>
 
@@ -64,3 +63,6 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 🧑🏻 <strong><a href="https://github.com/hernancarreno01">Hernán Carreño</a></strong>
 
 🧑🏻 <strong><a href="https://github.com/emirchus1">Emir Ali</a></strong>
+
+
+---------------------------------------------------------------------------------------------
