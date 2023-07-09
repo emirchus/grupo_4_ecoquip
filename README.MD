@@ -19,7 +19,7 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 ![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Files/botella_eco.png)
 
 
-## Wideframes
+## Wireframes
 🏠 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Home%20Desktop.pdf">Home (desktop version)</a></strong>
 
 🏠 <strong><a href="https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Wireframe/EcoEquip%20-%20Home%20Mobile.pdf">Home (mobile version)</a></strong>
