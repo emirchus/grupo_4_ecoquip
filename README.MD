@@ -43,7 +43,7 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 🚀 <strong><a href="https://www.blissworld.com/">BlissWorld</a></strong> → Distribución y diseño de página.
 
-🚀 <strong><a href="https://shopdressup.com/">DressUp</a></strong> → Diseño de carritp de compras.  Distribución y diseño de página.
+🚀 <strong><a href="https://shopdressup.com/">DressUp</a></strong> → Diseño de carrito de compras.  Distribución y diseño de página.
 
 🚀 <strong><a href="https://www.chubbiesshorts.com/">Chubbies</a></strong> → Estetica de imagenes.  Distribución y diseño de página.
 
