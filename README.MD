@@ -63,4 +63,4 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 🧑🏻 <strong><a href="https://github.com/hernancarreno01">Hernán Carreño</a></strong>
 
-🧑🏻 <strong><a href="https://github.com/emirchus1">Emir Ali</a></strong>
+🧑🏻 <strong><a href="https://github.com/emirchus">Emir Ali</a></strong>
