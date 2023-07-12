@@ -51,7 +51,7 @@
   
   .container button.google {
     background-color: #db4437;
-    margin-top: 10px;
+    margin-top: 40px;
   }
   
   @media  (min-width: 768px) {
@@ -74,7 +74,7 @@
     outline: none;
     cursor: pointer;
     width: 150px;
-    height: 50px;
+    height: 30px;
     background-image: linear-gradient(to top, #D8D9DB 0%, #fff 80%, #FDFDFD 100%);
     border-radius: 30px;
     border: 1px solid #8F9092;
@@ -106,7 +106,7 @@
     outline: none;
     cursor: pointer;
     width: 150px;
-    height: 50px;
+    height: 30px;
     background-image: linear-gradient(to top, #faf5f5 0%, #fce7e7 80%, #ffb8b8 100%);
     border-radius: 30px;
     border: 1px solid #8F9092;
@@ -139,6 +139,7 @@
     box-shadow: 20px 20px 60px #c5c5c5,
        -20px -20px 60px #ffffff;
     transition: 0.3s;
+    margin-bottom: 30px;
    }
    
    input:focus {
@@ -150,7 +151,7 @@
    }
 
    .logogoogle {
-    width: 25px;
+    width: 15px;
     margin-right: 7px;
     margin-left: 7px;
    }
@@ -159,11 +160,15 @@
     color: rgb(0, 0, 0);
     text-decoration: none;
     font-size: 25px;
-    margin: 10px 20px 10px 20px;
+    margin: 50px 20px 10px 20px;
     border: none;
     background: none;
     font-weight: 600;
     font-family: 'Poppins', sans-serif;
+    text-shadow:
+    0px 0px 3px #424242, 
+    0px 0px 5px #11b36f, 
+    -0px -0px 2px #afafaf;;
   }
   
 .button03a::before {
@@ -191,7 +196,7 @@
   }
 
   .button03b {
-    color: rgb(151, 124, 124);
+    color: rgb(168, 168, 168);
     text-decoration: none;
     font-size: 25px;
     margin: 10px 20px 10px 20px;
@@ -199,8 +204,17 @@
     background: none;
     font-weight: 600;
     font-family: 'Poppins', sans-serif;
+    text-shadow:
+    0px 0px 3px #424242, 
+    0px 0px 5px #11b36f, 
+    -0px -0px 2px #afafaf;;
   }
   
+.o{
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: #8F9092;
+}  
 .button03b::before {
     margin-left: auto;
   }
