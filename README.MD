@@ -1,5 +1,5 @@
 # EcoEquip
-![enter image description here](https://github.com/emirchus/grupo_4_ecoquip/blob/main/Files/bannerreadme.jpg)
+![enter image description here](https://github.com/emirchus/grupo_4_ecoquip/blob/main/extrafiles/bannerreadme.jpg)
 
 ## Descripción
 
@@ -15,8 +15,8 @@ Nuestro público objetivo son personas jóvenes y audaces con un espíritu avent
 
 Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equiparte y disfrutar al máximo de tus actividades al aire libre. Únete a nuestra comunidad de amantes del outdoor y descubre un mundo de aventuras esperándote.
 
-![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Files/botella%20eco%20copia.png)
-![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/Files/botella_eco.png)
+![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/extrafiles/botella%20eco%20copia.png)
+![enter image description here](https://raw.githubusercontent.com/emirchus/grupo_4_ecoquip/main/extrafiles/botella_eco.png)
 
 
 ## Wireframes
