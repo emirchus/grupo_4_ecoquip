@@ -1,0 +1,226 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body, html {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    background-image: url('/img/backsign2.jpg');
+    background-size: cover;
+  }
+  
+  .container {
+    width: 80%;
+    height: 90%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: inset 0.3em -0.3em 0.3em rgba(0, 0, 0, 0.2),
+                0 0  0 3px rgb(0, 0, 0),
+                0.3em 0.3em 1em rgba(0,0,0,0.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-image: url('/img/backconteinersign2.png');
+    background-size: 100%
+  }
+  
+  .container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .container input[type="text"],
+  .container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .container button.google {
+    background-color: #db4437;
+    margin-top: 10px;
+  }
+  
+  @media  (min-width: 768px) {
+    .container {
+      max-width: 400px;
+      height: 90%;
+    }
+  }
+
+  @media  (min-width: 1024px) {
+    .container {
+      width: 400px;
+    }
+  }
+
+  .button01 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    background-image: linear-gradient(to top, #D8D9DB 0%, #fff 80%, #FDFDFD 100%);
+    border-radius: 30px;
+    border: 1px solid #8F9092;
+    transition: all 0.2s ease;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: #606060;
+    text-shadow: 0 1px #fff;
+  }
+  
+  .button01:hover {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 3px 3px #CECFD1;
+  }
+  
+ .button01:active {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #999, inset 0 0 30px #ffffff;
+  }
+  
+  .button01:focus {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #999, inset 0 0 30px #ffffff;
+  }
+  
+  .button02 {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    background-image: linear-gradient(to top, #faf5f5 0%, #fce7e7 80%, #ffb8b8 100%);
+    border-radius: 30px;
+    border: 1px solid #8F9092;
+    transition: all 0.2s ease;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: #606060;
+    text-shadow: 0 1px #fff;
+    padding-right: 4px;
+  }
+  
+  .button02:hover {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 3px 3px #CECFD1;
+  }
+  
+ .button02:active {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #ffe8e8, inset 0 0 30px #ffdfdf;
+  }
+  
+  .button02:focus {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #ffe8e8, inset 0 0 30px #ffdfdf;
+  }
+
+  input {
+    border: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    background: #e8e8e8;
+    box-shadow: 20px 20px 60px #c5c5c5,
+       -20px -20px 60px #ffffff;
+    transition: 0.3s;
+   }
+   
+   input:focus {
+    outline-color: #e8e8e8;
+    background: #e8e8e8;
+    box-shadow: inset 20px 20px 60px #c5c5c5,
+       inset -20px -20px 60px #ffffff;
+    transition: 0.3s;
+   }
+
+   .logogoogle {
+    width: 25px;
+    margin-right: 7px;
+    margin-left: 7px;
+   }
+  
+   .button03a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px 20px 10px 20px;
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+.button03a::before {
+    margin-left: auto;
+  }
+  
+  .button03a::after, button03::before {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #f44336;
+    display: block;
+    transition: 0.5s;
+  }
+    
+  .button03a:hover::after, button03:hover::before {
+    width: 100%;
+  }
+
+  .button03a:active {
+    color: black;
+  }
+  .button03a:focus {
+    color: black;
+  }
+
+  .button03b {
+    color: rgb(151, 124, 124);
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px 20px 10px 20px;
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+.button03b::before {
+    margin-left: auto;
+  }
+  
+  .button03b::after, button03::before {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #f44336;
+    display: block;
+    transition: 0.5s;
+  }
+    
+  .button03b:hover::after, button03:hover::before {
+    width: 100%;
+  }
+
+  .button03b:active {
+    color: black;
+  }
+  .button03b:focus {
+    color: black;
+  }
