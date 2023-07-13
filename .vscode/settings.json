@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/extrafiles/**": true,
+    "**/wireframes/**": true
+  }
+}
