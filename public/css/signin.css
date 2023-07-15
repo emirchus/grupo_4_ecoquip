@@ -1,4 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;700&display=swap");
+
+:root {
+  --primary: #658864;
+  --primary20: rgba(101, 136, 100, 0.2);
+  --secondary: #b7b78a;
+  --gray: #dddddd;
+  --white: #efefef;
+  --black: rgb(28, 33, 25);
+  --black20: rgba(28, 33, 25, 0.2);
+  --black80: rgba(28, 33, 25, 0.8);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -9,7 +21,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: #f5f5f5;
+  background-color: var(--white);
   display: flex;
   justify-content: center;
 }
@@ -35,13 +47,13 @@ body {
 
 .form h2 {
   font-size: 4.5rem;
-  color: #272727;
+  color: var(--black);
   margin: 0;
 }
 
 .form h3 {
   font-size: 1.5rem;
-  color: #333;
+  color: var(--black80);
   margin-bottom: 50px;
   font-weight: 500;
 }
@@ -50,27 +62,28 @@ body {
   width: 100%;
   max-width: 400px;
   height: 50px;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  border: 2px solid var(--primary20);
   border-radius: 10px;
   margin-bottom: 20px;
   padding: 0 15px;
   outline: none;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  color: var(--black);
+  box-shadow: 0 0 5px var(--black20);
   transition: all 0.5s ease-in-out;
 }
 
 .signinForm input:focus {
-  border-color: #333;
+  border-color: var(--primary);
   transform: translateY(-4px);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 5px var(--black20);
 }
 span {
   margin-bottom: 40px;
-  color: #333;
+  color: var(--black);
 }
 a {
   text-decoration: none;
-  color: rgb(99, 156, 116);
+  color: var(--secondary);
   font-weight: 500;
   font-size: 1rem;
 }
@@ -90,9 +103,9 @@ a:hover {
   padding: 0 15px;
   font-size: 1.2rem;
   outline: none;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-  background-color: #2f2f2f;
-  color: #fff;
+  box-shadow: 0 0 5px var(--black20);
+  background-color: var(--black);
+  color: white;
   font-weight: bold;
   letter-spacing: 4px;
   text-transform: uppercase;
@@ -101,7 +114,7 @@ a:hover {
 }
 
 .signinForm button:hover {
-  background-color: #212121;
+  background-color: var(--primary);
   transform: translate(0, -4px);
 }
 
@@ -119,5 +132,14 @@ a:hover {
 @media screen and (min-width: 1000px) {
   .land {
     display: flex;
+  }
+}
+
+@media screen and (min-width: 425px) {
+  .form h2 {
+    font-size: 2.4em;
+  }
+  .form h3 {
+    font-size: 1.4em;
   }
 }
