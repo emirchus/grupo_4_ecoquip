@@ -82,6 +82,7 @@ a:hover {
   background-position: contain;
 }
 
+
 @media screen and (min-width: 1000px) {
   .land {
     display: flex;

@@ -7,34 +7,34 @@
     <link rel="stylesheet" href="./css/global.css" />
     <link rel="stylesheet" href="./css/signin.css" />
 
-    <link rel="shortcut icon" type="image/ico"href="./img/favicon.ico" />
+    <link rel="shortcut icon" type="image/ico" href="./img/favicon.ico" />
   </head>
   <body>
-    <div class="container form">
-      <h2>Bienvenido</h2>
-      <h3>Ingresá los datos de tu cuenta</h3>
-      <form class="signinForm">
-        <input
-          type="email"
-          autocomplete="email"
-          placeholder="Correo"
-          aria-label=""
-        />
-        <input
-          type="password"
-          autocomplete="new-password"
-          placeholder="Contraseña"
-        />
-        <input
-          type="password"
-          autocomplete="new-password"
-          placeholder="Repeti contraseña"
-        />
+    <div class="container">
+      <div class="mark">
+        <img src="./img/logo-black.png" alt="EcoEquip" />
+        <h1>Inicio de sesión</h1>
+      </div>
+      <div class="form">
+        <h2>Bienvenido</h2>
+        <h3>Ingresá los datos de tu cuenta</h3>
+        <form class="signinForm">
+          <input
+            type="email"
+            autocomplete="email"
+            placeholder="Correo"
+            aria-label=""
+          />
+          <input
+            type="password"
+            autocomplete="new-password"
+            placeholder="Contraseña"
+          />
+          <button type="submit">Ingresar</button>
+        </form>
+        <hr class="divider" />
         <span>¿No tenés cuenta? <a href="/signup">Registrate</a></span>
-        <button type="submit">Ingresar</button>
-      </form>
-      <hr class="divider" />
-      <span>¿No tenés cuenta? <a href="/signup">Registrate</a></span>
+      </div>
     </div>
 
     <div class="container land"></div>
