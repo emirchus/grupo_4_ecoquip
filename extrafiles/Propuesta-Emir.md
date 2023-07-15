@@ -79,16 +79,23 @@ Paletas de colores:
 #718355
 
 Diseños:
-web: https://dribbble.com/shots/21538030-Hem-Furniture-Brand-Website 
+web: https://dribbble.com/shots/21538030-Hem-Furniture-Brand-Website
 <img src= "https://cdn.dribbble.com/userupload/7235032/file/original-61019feaff5368ae38cca48e8781b31c.png?compress=1&resize=850x638">
 
-mobile: https://dribbble.com/shots/21244204-Furniture-store-Mobile-app 
+mobile: https://dribbble.com/shots/21244204-Furniture-store-Mobile-app
 <img src= "https://cdn.dribbble.com/userupload/6386525/file/original-18fed5e88994aeb46de75befcfc467b4.png?compress=1&resize=1024x768">
 
 
 
+## Usen yarn por favor :,v
+# HUELGA!!
 
-
-
-
-
+| Características | Yarn | npm |
+|----------------|--------|-----|
+| Velocidad | Más rápido debido a la paralelización de operaciones. | Más lento porque instala paquetes uno por uno. |
+| Seguridad | Añade una capa adicional de seguridad con el "yarn.lock". | Seguro, pero no ofrece la misma consistencia de versiones que Yarn. |
+| Workspaces | Sí, Yarn admite el concepto de 'workspaces' para unificar el proceso de instalación y gestión de dependencias. | No, aunque npm v7.0 introduce soporte para 'workspaces', no es tan avanzado como el de Yarn. |
+| Instalación de paquetes | Instala todos los paquetes al mismo tiempo. | Instala paquetes uno por uno. |
+| Compatibilidad | Puede utilizar "package-lock.json" y "npm-shrinkwrap.json". | No puede usar "yarn.lock". |
+| Comandos | Los comandos en Yarn son más concisos (por ejemplo, "yarn" en lugar de "npm install"). | Los comandos en npm pueden ser más largos y descriptivos. |
+| Verificación de licencias | Sí, Yarn ofrece una "verificación de licencia". | No, npm no tiene esta función. |

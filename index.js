@@ -12,6 +12,10 @@ const signInRoute = require("./routes/signin");
 
 app.use("/signin", signInRoute);
 
+
+const signUpRoute = require("./routes/signup");
+app.use("/signup", signUpRoute);
+
 app.listen(env.PORT || 3000, () =>
   console.log(`Servidor levantado en puerto ${env.PORT || 3000} 🚀`)
 );
