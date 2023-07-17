@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;    
+    font-family: 'Roboto', sans-serif;
+
+}
+:root{
+    --verde-oscuro: #658864;
+    --verde-claro: #B7B78A;
+    --gris-oscuro: #DDDDDD;
+    --gris-claro: #EEEEEE;
+}
+
+.logo{
+    width: 25%;
+    margin:5%;
+}
+.contenedor{
+    width: 90%;
+    padding: 5%;
+    border: 1px solid var(--verde-claro);
+    background-color: var(--gris-claro);
+}
+.bloque-sup{
+    background-color: var(--gris-claro);
+    display: flex;
+    /*flex-direction: row;*/
+} 
+
+.imgPrincipal{
+    width: 50%; 
+    padding: 10% 0 10% 10%;
+    flex-direction: row;
+    justify-content: flex-start;    
+}
+.panel-lateral{
+    width: 30%;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+ul li{
+    color: var(--verde-oscuro);
+    display: inline;
+    padding: 10px 20px;
+    position: relative;    
+    list-style-type: none;
+}
+
+.carrusel{
+    margin: 25px 10px;
+    width: 90%;
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+.imgSecundaria{
+    width:20%;     
+}
+.iconoFlecha{
+    font-size: 20px;
+    color: var(--verde-oscuro);
+    flex-direction: row;
+    justify-content: space-between; 
+}
+.button{
+    font-size: 20px;
+    border-radius: 5px;
+    color: #658864;
+    background-color: var(--verde-oscuro);
+    box-shadow: inset;
+}
+.descripcion{
+    margin-top: 10px;
+    
+}
+
+
