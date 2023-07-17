@@ -25,19 +25,32 @@
 .bloque-sup{
     background-color: var(--gris-claro);
     display: flex;
-    /*flex-direction: row;*/
 } 
 
 .imgPrincipal{
     width: 50%; 
-    padding: 10% 0 10% 10%;
+    padding: 10% 0 0 10%;
     flex-direction: row;
     justify-content: flex-start;    
 }
 .panel-lateral{
     width: 30%;
+    padding-top: 10%;
+    padding-left: 10%;
     flex-direction: row;
     justify-content: flex-end;
+}
+.precio{
+    font-size: 28px;
+    color: var(--verde-oscuro);
+    padding-bottom: 20%;
+}
+button{
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: var(--verde-oscuro);
+    color: white;
+    background-color: var(--verde-oscuro);
 }
 
 ul li{
@@ -49,30 +62,24 @@ ul li{
 }
 
 .carrusel{
-    margin: 25px 10px;
-    width: 90%;
+    margin: 15px 0;
+    width: 100%;
     display: flex;
     border-bottom: 1px solid grey;
 }
 .imgSecundaria{
-    width:20%;     
+    width:100%;     
 }
 .iconoFlecha{
     font-size: 20px;
-    color: var(--verde-oscuro);
-    flex-direction: row;
-    justify-content: space-between; 
+    color: var(--verde-oscuro);    
 }
-.button{
-    font-size: 20px;
-    border-radius: 5px;
-    color: #658864;
-    background-color: var(--verde-oscuro);
-    box-shadow: inset;
+.descripcion h2{
+    padding-bottom: 2%;
 }
-.descripcion{
-    margin-top: 10px;
-    
-}
+
+
+
+
 
 
