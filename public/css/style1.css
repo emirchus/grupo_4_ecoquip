@@ -16,6 +16,7 @@
   --dl-color-gray-black60: #00000099;
   --dl-color-gray-black80: #000000cc;
   --dl-color-pallet-green: #dfe7ddff;
+  --dl-color-pallet-darkgreen: rgb(21, 59, 11);
   --dl-size-size-maxwidth: 1328px;
   --dl-color-pallet-yellow: #efc14cff;
   --dl-radius-radius-round: 50%;
@@ -65,7 +66,7 @@ body {
   background-color: var(--dl-color-pallet-yellow);
 }
 .input {
-  color: var(--dl-color-gray-white);
+  color: var(--dl-color-pallet-darkgreen);
   cursor: auto;
   outline: none;
   padding: 0.5rem 1rem;
