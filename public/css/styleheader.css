@@ -1104,6 +1104,7 @@
     flex-shrink: 1;
     border-color: transparent;
     margin-bottom: var(--dl-space-space-threeunits);
+    display: none;
   }
 
   .home-main {
@@ -1178,6 +1179,7 @@
     flex-shrink: 1;
     border-color: transparent;
     margin-bottom: var(--dl-space-space-threeunits);
+    display: none;
   }
   .home-mobile-menu {
     padding: 16px;
