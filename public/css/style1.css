@@ -6,28 +6,22 @@
   --gris-claro: #EEEEEE;
   --blanco: #FFFFFF;
   --amarillo: #e4cb0c;
-  --dl-size-size-large: 144px;
-  --dl-size-size-small: 48px;
-  --dl-size-size-medium: 96px;
-  --dl-size-size-xlarge: 192px;
-  --dl-size-size-xsmall: 16px;
-  --dl-space-space-unit: 16px;
-  --dl-size-size-xxlarge: 288px;
-  --dl-size-size-maxwidth: 1328px;
-  --dl-radius-radius-round: 50%;
-  --dl-space-space-halfunit: 8px;
-  --dl-space-space-sixunits: 96px;
-  --dl-space-space-twounits: 32px;
-  --dl-radius-radius-radius2: 2px;
-  --dl-radius-radius-radius4: 4px;
-  --dl-radius-radius-radius8: 8px;
-  --dl-space-space-fiveunits: 80px;
-  --dl-space-space-fourunits: 64px;
-  --dl-space-space-threeunits: 48px;
-  --dl-space-space-oneandhalfunits: 24px;
+}
+html {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+  line-height: 1.15;
 }
 
 body {
+  font-weight: 400;
+  font-style:normal;
+  text-decoration: none;
+  text-transform: none;
+  letter-spacing: 0.02;
+  line-height: 1.55;
+  color: var(--dl-color-gray-black);
+  background-color: var(--dl-color-gray-white);
   font-family: "Source Sans Pro", sans-serif;
 }
 
@@ -94,17 +88,18 @@ body {
   width: 100%;
   display: flex;
   align-items: center;
-  padding-top: var(--dl-space-space-fiveunits);
+  padding-top: 80px;
   justify-content: center;
 }
 .max-width-container {
   width: 100%;
   display: flex;
-  max-width: var(--dl-size-size-maxwidth);
+  max-width: 1328px;
   align-items: center;
-  padding-left: var(--dl-space-space-oneandhalfunits);
-  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-left: 24px;
+  padding-right: 24px;
   flex-direction: column;
+
 }
 .column {
   display: flex;
@@ -133,8 +128,8 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 500;
   line-height: 20px;
-  margin-left: var(--dl-space-space-fourunits);
-  margin-right: var(--dl-space-space-fourunits);
+  margin-left: 64px;
+  margin-right: 64px;
   letter-spacing: 0.4em;
   text-decoration: none;
 }
@@ -184,11 +179,11 @@ body {
 }
 @media(max-width: 767px) {
   .section-container {
-    padding-top: var(--dl-space-space-twounits);
+    padding-top: 32px;
   }
   .max-width-container {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
 
