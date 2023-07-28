@@ -7,10 +7,15 @@
   --blanco: #FFFFFF;
   --amarillo: #e4cb0c;
 }
+* {  box-sizing: border-box;
+     border-width: 0;
+     border-style: solid;}
+
 html {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 16px;
   line-height: 1.15;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -23,8 +28,16 @@ body {
   color: var(--dl-color-gray-black);
   background-color: var(--dl-color-gray-white);
   font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
 }
 
+p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
+  margin: 0;
+  padding: 0;
+}
 
 .button {
   color: var(--verde-oscuro);
@@ -48,6 +61,7 @@ body {
   padding-right: 24px;
   padding-bottom: 12px;
   text-decoration: none;
+  background-color: transparent;
 }
 .button:hover {
   color: var(--gris-claro);

@@ -8,13 +8,6 @@
   --blanco: #FFFFFF;
   --amarillo: #e4cb0c;
 
-.section-heading-section-heading {
-  display: flex;
-  position: relative;
-  align-items: center;
-  margin-bottom: 48px;
-  flex-direction: column;
-}
 .section-heading-text {
   text-align: center;
   margin-bottom: 16px;
@@ -512,7 +505,6 @@
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 500;
   text-decoration: none;
-  background-color: var(--amarillo);
 }
 .home-text11 {
   color: rgba(0, 0, 0, 1);
