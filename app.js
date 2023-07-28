@@ -29,3 +29,7 @@ app.get("/register", (req, res) => {
 app.get("/header", (req, res) => {
   res.sendFile(path.join(__dirname, "/views/header.html"));
 });
+
+app.get("/header2", (req, res) => {
+  res.sendFile(path.join(__dirname, "/views/header2.html"));
+});
