@@ -7,6 +7,7 @@
   --gris-claro: #EEEEEE;
   --blanco: #FFFFFF;
   --amarillo: #e4cb0c;
+}
 
 .section-heading-text {
   text-align: center;
@@ -471,51 +472,6 @@
   font-weight: 500;
   text-decoration: none;
 }
-.home-text07 {
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  font-size: 13px;
-  text-align: left;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: 500;
-  text-decoration: none;
-}
-.home-text08 {
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  font-size: 13px;
-  text-align: left;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: 500;
-  text-decoration: none;
-}
-.home-text09 {
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  font-size: 13px;
-  text-align: left;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: 500;
-  text-decoration: none;
-}
-.home-text10 {
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  font-size: 13px;
-  text-align: left;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: 500;
-  text-decoration: none;
-}
-.home-text11 {
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  font-size: 13px;
-  text-align: left;
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: 500;
-  text-decoration: none;
-}
 .home-icon04 {
   width: 16px;
   height: 16px;
@@ -724,7 +680,6 @@
   line-height: 175%;
   font-stretch: normal;
   margin-bottom: 48px;
-  text-decoration: none;
 }
 .home-svg {
   top: -100px;
