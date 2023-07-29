@@ -25,8 +25,8 @@ body {
   text-transform: none;
   letter-spacing: 0.02;
   line-height: 1.55;
-  color: var(--dl-color-gray-black);
-  background-color: var(--dl-color-gray-white);
+  color: var(--verde-oscuro2);
+  background-color: var(--gris-claro);
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
   box-sizing: border-box;
@@ -69,11 +69,14 @@ p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
   background-color: var(--amarillo);
 }
 .input {
-  color: var(--verde-oscuro);
+  color: var(--verde-oscuro2);
   cursor: auto;
+  text-align: left;
   outline: none;
-  padding: 0.5rem 1rem;
-  background-color: var(--verde-claro);
+  padding: 5px 5px;
+  background-color: var(--gris-claro);
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .textarea {
   color: var(--verde-oscuro);
@@ -129,6 +132,7 @@ p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 500;
   text-decoration: none;
+  margin-left: 10px;
 }
 .navbar-link:hover {
   color: var(--amarillo);
