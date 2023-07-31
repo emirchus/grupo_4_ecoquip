@@ -3,11 +3,6 @@
 
 ## Retrospectiva - Sprint 01
 
-Propongo lo siguiente: dejar cada uno de los miembros del proyecto, una vision general de nuestro trabajo en el sprint 01, en que colaboramos, en que parte no, motivos, como vimos el trabaja de nuestros compañeros, que mejorar para el proximo. No hace falta que sea un texto muy largo, algo simple.
-Con las opiniones de todos, puedo armar un texto basico para armar la restrospectiva basada en las opiniones de todos.
-
-## Retrospectiva - Sprint 02
-
 El último sprint fue una experiencia enriquecedora, donde trabajamos en equipo y colaboramos activamente para crear wireframes utilizando Figma. Ahora, al enfrentar el nuevo sprint, es importante reflexionar sobre lo que hicimos bien, lo que hicimos mal y cómo podemos mejorar para tener éxito más pronto. Para ello, utilizaremos la dinámica de Estrella de Mar, que nos ayudará a identificar lo que deberíamos empezar a hacer y dejar de hacer para ser más ágiles y efectivos.
 
 **Lo que hicimos bien en el Sprint Anterior:**
