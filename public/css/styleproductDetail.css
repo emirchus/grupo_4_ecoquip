@@ -19,14 +19,15 @@
     margin:5%;
 }
 .contenedor{
-    width: 80%;
-    margin-top: 30px;
+    width: 90%;
     padding: 5%;
     /*border: 1px solid var(--verde-claro);*/
-    background-color: var(--gris-claro);
+    background-color: #e0ebe5;
+    /*background-color: var(--gris-claro);*/
 }
 .bloque-sup{
-    background-color: var(--gris-claro);
+    /*background-color: var(--gris-claro);*/
+    background-color: #e0ebe5;
     padding-bottom: 20px;
 } 
 .panel-img-precio{
@@ -90,10 +91,10 @@
     height: fit-content;
     margin:0 5px;
     color: #658864;
-    border: 2px solid var(--verde-oscuro);
+    border: 1px solid var(--verde-oscuro);
     border-radius: 25%;
-    text-align: center;
-}
+    text-align: center; 
+}  
 
 ul li{
     color: var(--verde-oscuro);/*
@@ -108,10 +109,10 @@ ul li{
     display: flex;
 }   
 .imgSecundaria{
-    width:95%; 
+    width:90%; 
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.3);
     /*border-radius: var(--dl-space-space-unit);*/
-    border-radius: 5%;     
+    border-radius: 10%;     
 }
 
 .iconoFlecha{
