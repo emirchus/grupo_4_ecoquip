@@ -41,9 +41,9 @@
 }
 .precio{
     font-size: 28px;
-    color: var(--verde-claro);
+    color: var(--verde-oscuro);
     position: absolute;
-    top: 10px;
+    top: 20px;
     right: 5%
 }
 .botones{
@@ -54,15 +54,30 @@
     align-items: center;
 }
 .boton-comprar{
-    font-size: 20px;
+    width: 45%;
+    font-size: 1.5em;
     padding: 0.3em;
-    border-radius: 5px;
+    border-radius: 15px;
     border: 1px solid var(--verde-oscuro);
     color:white;
     background-color: var(--verde-oscuro);
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.3);
+    transition: all 0.55s;
+}
+.boton-comprar:hover{
+    background-color:#efc14cff;
+    color: var(--verde-oscuro);
+}
+
+.cantidad i{
+    font-size: 1.5em;
+    transition: all 0.55s;
+}
+.cantidad i:hover{
+    color: #efc14cff;
 }
 .cantidad{
+    width: 45%;
     color: #658864;
     display: flex;
     justify-content: center;
@@ -70,8 +85,8 @@
 }
 
 .cantidad p{    
-    font-size: 20px;
-    width: 30px;
+    font-size: 1.5em;
+    width: 40px;
     height: fit-content;
     padding: 0.2em;
     margin:0 5px;
