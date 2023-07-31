@@ -95,15 +95,12 @@
     text-align: center;
 }
 
-
 ul li{
     color: var(--verde-oscuro);/*
     display: inline;
     padding: 10px 20px;*/       
     list-style-type: none;
 }
-
-
 
 .carrusel{
     margin: 20px 0;
