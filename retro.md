@@ -44,4 +44,4 @@ El último sprint fue una experiencia enriquecedora, donde trabajamos en equipo 
 
 ## Tablero Trello - Grupo #4 - EcoEquip
 
-📋 <strong><a href="https://trello.com/invite/b/Scb6zxY8/ATTI7272b788f3fa90e9d488c6256f3a84252462C99D/ecoequip">Tablero EcoEquip</a></strong>|
+📋 <strong><a href="https://trello.com/invite/b/Scb6zxY8/ATTI7272b788f3fa90e9d488c6256f3a84252462C99D/ecoequip">Tablero EcoEquip</a></strong>
