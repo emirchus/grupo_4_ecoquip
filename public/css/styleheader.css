@@ -1,3 +1,5 @@
+@import "styleproductDetail.css";
+
 :root {
   --verde-oscuro: #658864;
   --verde-oscuro2: #293a28;
@@ -1004,8 +1006,14 @@
 }
 .home-text52 {
   color: var(--verde-oscuro);
+  margin-top: 10px;
   margin-bottom: 10px;
   padding: 5px;
+}
+.home-text520 {
+  color: var(--verde-oscuro);
+  padding: 5px;
+  text-decoration: none;
 }
 .home-text53 {
   color: var(--verde-oscuro);

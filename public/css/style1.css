@@ -2,6 +2,7 @@
   --verde-oscuro: #658864;
   --verde-oscuro2: #293a28;
   --verde-claro: #B7B78A;
+  --verde-aqua: #e0ebe5;
   --gris-oscuro: #DDDDDD;
   --gris-claro: #EEEEEE;
   --blanco: #FFFFFF;
@@ -38,7 +39,9 @@ p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
   margin: 0;
   padding: 0;
 }
-
+a {
+  text-decoration: none;
+}
 .button {
   color: var(--verde-oscuro);
   cursor: pointer;

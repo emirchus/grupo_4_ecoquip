@@ -3,11 +3,6 @@
 
 ## Retrospectiva - Sprint 01
 
-Propongo lo siguiente: dejar cada uno de los miembros del proyecto, una vision general de nuestro trabajo en el sprint 01, en que colaboramos, en que parte no, motivos, como vimos el trabaja de nuestros compañeros, que mejorar para el proximo. No hace falta que sea un texto muy largo, algo simple.
-Con las opiniones de todos, puedo armar un texto basico para armar la restrospectiva basada en las opiniones de todos.
-
-## Retrospectiva - Sprint 02
-
 El último sprint fue una experiencia enriquecedora, donde trabajamos en equipo y colaboramos activamente para crear wireframes utilizando Figma. Ahora, al enfrentar el nuevo sprint, es importante reflexionar sobre lo que hicimos bien, lo que hicimos mal y cómo podemos mejorar para tener éxito más pronto. Para ello, utilizaremos la dinámica de Estrella de Mar, que nos ayudará a identificar lo que deberíamos empezar a hacer y dejar de hacer para ser más ágiles y efectivos.
 
 **Lo que hicimos bien en el Sprint Anterior:**
@@ -37,6 +32,8 @@ El último sprint fue una experiencia enriquecedora, donde trabajamos en equipo 
 2.  **Seguimiento regular:** Establecer reuniones breves y periódicas para hacer seguimiento del progreso y abordar posibles obstáculos.
     
 3.  **Documentación detallada:** Registrar adecuadamente las decisiones clave y actualizaciones en el proyecto para tener una referencia clara en el futuro.
+4.  **Tratar de atenernos a lo visto en clase:** Aunque conocer cosas nuevas nos hace crecer, eso también requiere tiempo, que no sabemos si la otra persona tiene. En caso de hacer algún cambio que afecte a los demás es mejor informarlo antes de actuar.
+  
     
 
 **Qué deberíamos dejar de hacer:**
@@ -47,4 +44,4 @@ El último sprint fue una experiencia enriquecedora, donde trabajamos en equipo 
 
 ## Tablero Trello - Grupo #4 - EcoEquip
 
-📋 <strong><a href="https://trello.com/invite/b/Scb6zxY8/ATTI7272b788f3fa90e9d488c6256f3a84252462C99D/ecoequip">Tablero EcoEquip</a></strong>|
+📋 <strong><a href="https://trello.com/invite/b/Scb6zxY8/ATTI7272b788f3fa90e9d488c6256f3a84252462C99D/ecoequip">Tablero EcoEquip</a></strong>
