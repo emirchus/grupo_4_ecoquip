@@ -70,6 +70,7 @@ a {
   color: var(--gris-claro);
   border-color: var(--amarillo);
   background-color: var(--amarillo);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 .input {
   color: var(--verde-oscuro2);
@@ -193,18 +194,3 @@ a {
   text-transform: uppercase;
   text-decoration: none;
 }
-@media(max-width: 991px) {
-  .navbar-logo-title {
-    margin-left: 0px;
-  }
-}
-@media(max-width: 767px) {
-  .section-container {
-    padding-top: 32px;
-  }
-  .max-width-container {
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-}
-
