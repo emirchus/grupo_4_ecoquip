@@ -1,4 +1,4 @@
-@import url(/css/styleproductDetail.css);
+@import 'styleproductDetail.css';
 
 :root {
   --verde-oscuro: #658864;
@@ -41,7 +41,9 @@ p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
   margin: 0;
   padding: 0;
 }
-
+a {
+  text-decoration: none;
+}
 .button {
   color: var(--verde-oscuro);
   cursor: pointer;
@@ -70,6 +72,7 @@ p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
   color: var(--gris-claro);
   border-color: var(--amarillo);
   background-color: var(--amarillo);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 .input {
   color: var(--verde-oscuro2);
@@ -193,18 +196,3 @@ p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
   text-transform: uppercase;
   text-decoration: none;
 }
-@media(max-width: 991px) {
-  .navbar-logo-title {
-    margin-left: 0px;
-  }
-}
-@media(max-width: 767px) {
-  .section-container {
-    padding-top: 32px;
-  }
-  .max-width-container {
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-}
-

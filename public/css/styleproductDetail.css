@@ -73,7 +73,7 @@
     font-size: 1.5em;
     transition: all 0.55s;
 }
-.cantidad i:hover{
+.cantidad i:hover, .iconoFlecha:hover{
     color: #efc14cff;
 }
 .cantidad{
@@ -106,18 +106,25 @@ ul li{
     margin: 20px 0;
     width: 100%;
     display: flex;
+    justify-content: space-between;
 }   
 .imgSecundaria{
     width:90%; 
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.3);
     /*border-radius: var(--dl-space-space-unit);*/
-    border-radius: 10%;     
+    border-radius: 10%;  
+    transition: all 0.5s; 
+}
+.imgSecundaria:hover{
+    transform: scale(1.1);
 }
 
 .iconoFlecha{
     margin-top: 50px ;
+    margin-right: 10px;
     font-size: 20px;
     color: var(--verde-oscuro); 
+    transition: all 0.55s;
 }
 .descripcion img{
     width: 40%;
