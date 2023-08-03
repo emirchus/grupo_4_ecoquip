@@ -9,9 +9,9 @@
 :root{
     --verde-oscuro: #658864;
     --verde-claro: #B7B78A;
-    --verde-aqua: #e0ebe5;
     --gris-oscuro: #DDDDDD;
     --gris-claro: #EEEEEE;
+    --verde-aqua: #e0ebe5;
     --dl-color-pallet-green: #dfe7ddff;
 }
 
@@ -22,12 +22,10 @@
 .contenedor{
     width: 90%;
     padding: 5%;
-    /*border: 1px solid var(--verde-claro);*/
     background-color: #e0ebe5;
     /*background-color: var(--gris-claro);*/
 }
 .bloque-sup{
-    /*background-color: var(--gris-claro);*/
     background-color: #e0ebe5;
     padding-bottom: 20px;
 } 
@@ -75,7 +73,7 @@
     font-size: 1.5em;
     transition: all 0.55s;
 }
-.cantidad i:hover{
+.cantidad i:hover, .iconoFlecha:hover{
     color: #efc14cff;
 }
 .cantidad{
@@ -108,19 +106,68 @@ ul li{
     margin: 20px 0;
     width: 100%;
     display: flex;
+    justify-content: space-between;
 }   
 .imgSecundaria{
     width:90%; 
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.3);
     /*border-radius: var(--dl-space-space-unit);*/
-    border-radius: 10%;     
+    border-radius: 10%;  
+    transition: all 0.5s; 
+}
+.imgSecundaria:hover{
+    transform: scale(1.1);
 }
 
 .iconoFlecha{
     margin-top: 50px ;
+    margin-right: 10px;
     font-size: 20px;
     color: var(--verde-oscuro); 
+    transition: all 0.55s;
 }
+.descripcion img{
+    width: 40%;
+    display: none;
+}
+.descripcion h2, .modelos h2 {
+    color: var(--dl-color-gray-black80);
+    border-top: 1px solid #efc14cff;
+    padding: 4% 0;
+}
+.descripcion p, .modelos p{
+    color: var(--dl-color-gray-black80);
+    font-size: 16px;
+    line-height: 175%;   
+    margin-bottom: 20px; 
+}
+.modelos p{
+    color: var(--dl-color-gray-black80);
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+@media(min-width: 460px){
+    .contenedor{
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .descripcion img{
+        display: block;
+        margin-bottom: 10px;
+    }
+    .bloque-sup{
+        width: 50%;
+        margin-top: 20px;
+    }
+    .bloque-inf{
+        width: 45%;
+    }
+}
+
+
 .descripcion img{
     width: 40%;
     display: none;
