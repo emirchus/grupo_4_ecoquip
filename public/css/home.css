@@ -1,0 +1,158 @@
+body {
+  justify-content: start;
+  align-items: start;
+  flex-direction: column !important;
+  position: relative;
+}
+
+.navbar {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5%;
+}
+
+.navbar > .logo {
+  display: none;
+  height: 30%;
+  margin: auto 0;
+  opacity: 0.7;
+  transition: opacity 0.5s ease;
+}
+
+.navbar .logo:hover {
+  opacity: 1;
+}
+
+.navbar .logo img {
+  height: 100%;
+  object-fit: contain;
+  margin: auto;
+}
+
+.navbar input[type="text"] {
+  flex-basis: 60%;
+  max-width: 100%;
+  margin: auto;
+}
+
+.navbar .options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto 0;
+}
+
+.navbar .options a {
+  margin: auto 10px;
+  text-decoration: none;
+  color: var(--black80);
+  transition: color 0.5s ease;
+}
+
+.navbar .options a:hover {
+  color: var(--black);
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content .categories {
+  display: none;
+  flex-basis: 20%;
+  max-width: 100%;
+  height: 100vh;
+  margin: auto;
+  background: red;
+}
+
+.content .products {
+  flex-basis: 100%;
+  max-width: 100%;
+  height: 100vh;
+  margin: auto;
+  background: green;
+}
+
+.sidebar {
+  position: absolute;
+  width: 0%;
+  opacity: 0;
+  visibility: hidden;
+  height: 100%;
+  background-color: var(--black80);
+  padding: 80px 5% 0 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: start;
+  transition: all 0.5s ease;
+}
+
+.sidebar.open {
+  width: 100%;
+  opacity: 1;
+  visibility: visible;
+}
+.sidebar .options {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.sidebar .logo {
+  height: 50px;
+  margin: 0 auto;
+  opacity: 0.7;
+  transition: opacity 0.5s ease;
+}
+
+.sidebar .logo:hover {
+  opacity: 1;
+}
+
+.sidebar .logo img {
+  height: 100%;
+  object-fit: contain;
+  margin: auto;
+}
+
+.sidebar .close {
+  height: 50px;
+  color: white;
+  font-size: 1.7rem;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.sidebar .close:hover {
+  cursor: pointer;
+}
+
+.sidebar ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  margin: 50px 10%;
+  float: left;
+}
+
+.sidebar ul li {
+  margin: 10px 0;
+  list-style: none;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: var(--secondary);
+}

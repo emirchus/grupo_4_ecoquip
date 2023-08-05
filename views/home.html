@@ -5,8 +5,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>EcoEquip - Tienda</title>
     <link rel="stylesheet" href="./css/global.css" />
-
+    <link rel="stylesheet" href="./css/home.css" />
     <link rel="shortcut icon" type="image/ico" href="./img/favicon.ico" />
+    <script
+      src="https://kit.fontawesome.com/75dd66d087.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
-  <body></body>
+  <body>
+    <div class="navbar">
+      <a class="menu">
+        <i class="fa fa-bars"></i>
+      </a>
+
+      <a class="logo" href="/home">
+        <img src="./img/logo-black.png" alt="logo" />
+      </a>
+
+      <input type="text" placeholder="Buscar productos" />
+      <div class="options">
+        <a href="/cart">
+          <i class="fas fa-shopping-cart"></i>
+        </a>
+        <a href="/profile">
+          <i class="fas fa-user"></i>
+        </a>
+      </div>
+    </div>
+
+    <div class="sidebar">
+      <div class="options">
+        <a class="logo" href="/home">
+          <img src="./img/logo-white.png" alt="logo" />
+        </a>
+        <a class="close">
+          <i class="fa fa-times"></i>
+        </a>
+      </div>
+      <ul>
+        <!-- TODO: Revisar como haríamos esta parte con categoria -> sub categoria -> producto o como jeje -->
+        <li><a href="#">Item 1</a></li>
+        <li><a href="#">Item 2</a></li>
+        <li><a href="#">Item 3</a></li>
+        <li><a href="#">Item 4</a></li>
+        <li><a href="#">Item 5</a></li>
+      </ul>
+    </div>
+
+    <div class="content">
+      <div class="categories"></div>
+      <div class="products">
+
+      </div>
+    </div>
+  </body>
 </html>
