@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/stylehome.css">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/login.css">
     <link rel="stylesheet" href="/css/styleproductCart.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -83,29 +84,41 @@
 
         <!-- CARRITO DE COMPRAS -->
         <div >
-            <h1 class="Heading-1 ">Tu carrito de compras</h1>
+            <h1 class="Heading-1">Tu carrito de compras</h1>
 
             <div class="container">
                 <div class="step active" id="step1">
-                  <h2 class="style-titles">Carrito</h2>
                   <div class="products">
+                    <h2 class="style-titles">Carrito</h2>
                     <!-- PASO 1: PRODUCTOS QUE SE AGREGAN AL CARRITO -->
                     <div class="product">
                       <img src="img\botellasprincipal.png" alt="Botella">
-                      <span class="style-titles">Botella</span>
-                      <span>$50</span>
+                      <span class="style-names">Botella</span>
+                      <span class="style-price">$50</span>
                     </div>
                     <div class="product">
                       <img src="img\tazasprincipal.png" alt="Taza">
-                      <span class="style-titles">Taza</span>
-                      <span>$30</span>
+                      <span class="style-names">Taza</span>
+                      <span class="style-price">$30</span>
                     </div>                    
-                  </div>                
+                  </div> 
+                                 <!--FIN CARRITO DE COMPRAS  -->
+
+                                 <!-- RESUMEN DE COMPRA -->
                   <div class="summary">
-                    <h3 class="style-titles">Resumen de compras</h3>
-                    <span class="style-titles">Total: $80</span>
+                    <h2 class="style-titles">Resumen de compras</h2>
+                    <div class="total-price-container">
+                      <div id="total-sumary">
+                        <span class="style-names">Total: </span>
+                      </div>               
+                      <div id="price">
+                        <span class="style-price">$80 </span>               
+                      </div>
+                    </div>
                   </div>
-                  <button>Siguiente</button>
+                  <div class="container-button">
+                    <button class="button">Siguiente</button>
+                  </div>
                 </div>
             <!-- PASO 2: AGREGAR LOS DATOS DE ENVIO -->
                 <div class="step" id="step2">
