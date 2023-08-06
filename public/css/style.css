@@ -62,11 +62,12 @@ a {
   border-style: solid;
   border-width: 1px;
   padding-left: 24px;
-  border-radius: 0px;
+  border-radius: 15px;
   padding-right: 24px;
   padding-bottom: 12px;
   text-decoration: none;
   background-color: transparent;
+  box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.3);
 }
 .button:hover {
   color: var(--gris-claro);
