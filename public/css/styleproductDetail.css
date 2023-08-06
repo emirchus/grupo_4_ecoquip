@@ -23,6 +23,8 @@
     width: 90%;
     padding: 5%;
     background-color: #e0ebe5;
+    margin-bottom: 30px;
+    border: 1px solid var(--gris-oscuro);
     /*background-color: var(--gris-claro);*/
 }
 .bloque-sup{
@@ -132,7 +134,7 @@ ul li{
 }
 .descripcion h2, .modelos h2 {
     color: var(--dl-color-gray-black80);
-    border-top: 1px solid #efc14cff;
+    border-top: 1px solid var(--gris-oscuro);
     padding: 4% 0;
 }
 .descripcion p, .modelos p{
@@ -146,6 +148,7 @@ ul li{
     font-size: 20px;
     letter-spacing: 10px;
 }
+
 @media(min-width: 460px){
     .contenedor{
         display: flex;
@@ -172,11 +175,7 @@ ul li{
     width: 40%;
     display: none;
 }
-.descripcion h2, .modelos h2 {
-    color: var(--dl-color-gray-black80);
-    border-top: 1px solid #efc14cff;
-    padding: 4% 0;
-}
+
 .descripcion p, .modelos p{
     color: var(--dl-color-gray-black80);
     font-size: 16px;
