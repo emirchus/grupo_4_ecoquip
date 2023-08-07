@@ -99,8 +99,8 @@
   }
   
   .button1:hover {
-    background-image: linear-gradient(163deg, #72c908 0%, #05fd22 100%);
-    color: rgb(0, 255, 200);
+    background-image: linear-gradient(163deg, var(--amarillo) 0%, var(--amarillo) 100%);
+    color: #0b683b;
   }
   
   .button2 {
@@ -118,8 +118,8 @@
   }
   
   .button2:hover {
-    background-image: linear-gradient(163deg, #72c908 0%, #05fd22 100%);
-    color: rgb(0, 255, 200);
+    background-image: linear-gradient(163deg, var(--amarillo) 0%, var(--amarillo) 100%);
+    color: #0b683b;
   }
   
   .button3 {
@@ -136,8 +136,8 @@
   }
   
   .button3:hover {
-    background-image: linear-gradient(163deg, #72c908 0%, #05fd22 100%);
-    color: rgb(255, 255, 255);
+    background-image: linear-gradient(163deg, var(--amarillo) 0%, var(--amarillo) 100%);
+    color: #0b683b;
   }
   
   .cardlogin {
@@ -189,5 +189,5 @@
   }
   
   .buttongoogle:hover {
-    transform: scale(1.02);
+    background-image: linear-gradient(163deg, var(--amarillo) 0%, var(--amarillo) 100%);
   }
