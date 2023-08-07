@@ -58,6 +58,9 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 ## Autores - Grupo #4 - EcoEquip
 👩🏻 <strong><a href="https://github.com/micasalazar">Micaela Salazar</a></strong>
+tengo 37 años y me gusta gusta vivir la vida al máximo. Aunque finalice mis estudios como Lic. en administración, la programación resultó ser apasionante para mi. Nunca es tarde, para descubrir nuevas pasiones!.
+Soy una mezcla de curiosa e inquieta, siempre buscando emociones y desafios. Me encanta viajar, explorar nuevos lugares y experimentar cosas nuevas, culturas diferentes, conocer personas fascinantes y crear recuerdos que durarán toda mi vida. Me gustan los deportes, y disfrutar de la naturaleza.
+
 
 👩🏻 <strong><a href="https://github.com/nahiararomero">Nahiara Romero</a></strong>
 
