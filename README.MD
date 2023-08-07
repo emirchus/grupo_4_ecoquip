@@ -62,7 +62,9 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 👩🏻 <strong><a href="https://github.com/nahiararomero">Nahiara Romero</a></strong>
 
 👩🏻 <strong><a href="https://github.com/RamirezVero">Veronica Ramirez</a></strong>
+Soy soltera, tengo 45 años, soy bastante curiosa, me gusta la puntualidad, aprender cosas nuevas y viajar ( team Montaña y por supuesto: team Invierno). Ex estudiante de Veterinaria, me decidí a dejar la carrera cursando 5to año, trabajé en veterinarias como ayudante y peluquera canina hasta ser independiente ( actualmente tengo mi propia peluquería canina). Quería empezar a estudiar algo pero no sabía qué, mientras tanto empecé a aprender alemán de manera autodidacta, luego me topé con la programación, me gustó y acá estoy, aprendiendo mucho con entusiasmo en DH y empezando la Tecnicatura en Informática.
 
-🧑🏻 <strong><a href="https://github.com/hernancarreno01">Hernán Carreño</a></strong>
+🧑🏻 <strong><a href="https://github.com/hernancarreno01">Hernán Carreño: </a></strong>
+46 años, casado con Griselda y dos hijas, Sofi (14 años) y Lucia (10 años).   Autodidacta con una fuerte pasión por la tecnología, siempre buscando nuevas oportunidades para aprender y crecer.   Tengo amplia experiencia en diseño gráfico (empecé con Corel 2.0, era 12 discos de 5 ¼), siempre interesado por la informática y las computadoras, desde mi primera Commodore 64 (con la intentaba programar en LOGO y BASIC), mi primer modem de 4800 baudios en 1990 para acceder a los primeros BBS y redes privadas. hasta recibirme de Profesor de Informática hace ya unos años.   Actualmente soy docente en el Nivel Secundario y Bachillerato de Adultos de Informática y en Nuevas Tecnologías de la Información y la Comunicación, además trabajo en la Administración de una Institución Educativa en el manejo de sistema de cobros, sistemas de banco, débitos automáticos de aranceles, liquidación de sueldos, etc.  Como emprendimiento, tengo una agencia de social media que administra el marketing digital de varias empresas de venta de productos y servicios.
 
 🧑🏻 <strong><a href="https://github.com/emirchus">Emir Ali</a></strong>
