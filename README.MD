@@ -56,6 +56,9 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 ## Tablero en Trello - Grupo #4 - EcoEquip
 📋 <strong><a href="https://trello.com/invite/b/Scb6zxY8/ATTI7272b788f3fa90e9d488c6256f3a84252462C99D/ecoequip">Tablero EcoEquip</a></strong>
 
+## Proyecto en Render - Grupo #4 - EcoEquip
+🖥️ <strong><a href="https://ecoequip.onrender.com/">Proyecto EcoEquip</a></strong>
+
 ## Autores - Grupo #4 - EcoEquip
 👩🏻 <strong><a href="https://github.com/micasalazar">Micaela Salazar</a></strong>
 tengo 37 años y me gusta gusta vivir la vida al máximo. Aunque finalice mis estudios como Lic. en administración, la programación resultó ser apasionante para mi. Nunca es tarde, para descubrir nuevas pasiones!.

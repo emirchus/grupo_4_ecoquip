@@ -184,20 +184,18 @@
             <!-- PASO 3: FORMA DE PAGO -->
                 <div class="step" id="step3">
                   <h2 class="style-titles">Forma de Pago</h2>
-                  <!-- Aquí colocarías las opciones de pago -->
-                  <label for="creditCard" >
-                    <input type="checkbox" id="creditCard" name="payment" value="creditCard" required>
-                    Tarjeta de Crédito
-                  </label>                  
-                  <label for="debitCard" >
-                    <input type="checkbox" id="debitCard" name="debitCard" value="debitCard" required>
-                    Tarjeta de Debito
-                  </label>
-                  <!-- ... y otras opciones de pago que necesites -->
-                  <div class="container-button">
-                    <button class="button">Volver al Inicio</button>
-                  </div>
-                </div>            
+              <label>
+                <input type="radio" name="payment" value="creditCard" required>
+                Tarjeta de Crédito
+              </label>                  
+              <label>
+                <input type="radio" name="payment" value="debitCard" required>
+                Tarjeta de Débito
+              </label>
+  <div class="container-button">
+    <button class="button">Volver al Inicio</button>
+  </div>
+</div>    
         </div>
         </div>
         <div class="home-footer">
