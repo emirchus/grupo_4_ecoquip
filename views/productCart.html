@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <link rel="icon" href="/img/ecoequiplogo.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/stylehome.css">
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/login.css">
+    <link rel="stylesheet" href="/css/stylehome.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/stylelogin.css" />
     <link rel="stylesheet" href="/css/styleproductCart.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -120,24 +120,39 @@
                     <button class="button">Siguiente</button>
                   </div>
                 </div>
-            <!-- PASO 2: AGREGAR LOS DATOS DE ENVIO -->
-                <div class="step" id="step2">
-                  <h2 class="style-titles">Datos de Envío</h2>            
-                  <form>
-                    <label for="name" class="style-titles">Nombre:</label>
-                    <input type="text" id="name" required>
-                    <label for="name" class="style-titles">Apellido:</label>
-                    <input type="text" id="name" required>
-                    <label for="name" class="style-titles">E-mail:</label>
-                    <input type="email" id="email" required>
-                    <label for="address" class="style-titles">Dirección:</label>
-                    <input type="text" id="address" required>
-                    <label for="city" class="style-titles">Ciudad:</label>
-                    <input type="text" id="city" required>
-                    <label for="client-phone" class="style-titles">Movil/WhatsApp:</label>
-                    <input type="tel" name="client-phone" id="client-phone" required>
-                    <div>
-                        <h4>Newsletter y Promociones</h5>  
+                                  <!--FIN RESUMEN DE COMPRA  -->
+
+                                  <!-- PASO 2: AGREGAR LOS DATOS DE ENVIO -->
+                <div class="step" id="step2">                
+                    <div class="cardForm">
+                      <div class="data">
+                      <form class="form">   
+                        <p h2 class="style-titles">DATOS DE ENVIO</p>                     
+                        <div class="field">                          
+                          <input type="text" class="input-field" id="name" name="name" placeholder="Nombre" autocomplete="off">
+                        </div>
+                        <div class="field">                          
+                          <input type="text" class="input-field" id="surname" name="surname" placeholder="Apellido" autocomplete="off">
+                        </div>
+                        <div class="field">                          
+                          <input type="email" class="input-field" id="email" name="email" placeholder="E-mail" autocomplete="off">
+                        </div>                       
+                        <div class="field">                          
+                          <input type="text" class="input-field" id="address" name="address" placeholder="Dirección" autocomplete="off">
+                        </div>
+                        <div class="field">                          
+                          <input type="text" class="input-field" id="city" name="city" placeholder="Ciudad" autocomplete="off">
+                        </div>
+                        <div class="field">                          
+                          <input type="tel" class="input-field" id="tel" name="tel" placeholder="Movil/WhatsApp" autocomplete="off">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="container-button">
+                      <button class="button">Enviar</button>
+                    </div>
+                        <div>
+                        <h3>Newsletter y Promociones</h5>  
                         <div>
                             <label for="promociones">
                                 <input type="radio" name="promociones" id="promociones">  
@@ -147,14 +162,11 @@
                         <div>
                             <label for="promociones-por-whatsapp">
                                 <input type="radio" name="promociones-por-whatsapp" id="promociones-por-whatsapp">
-                                Quiero recibir ofertas y promociones por WhatsApp
+                                Quiero recibir ofertas y promociones por WhatsApp                          
                             </label>
-                            <span>                            
-                                <img src="https://samsungbrtest.vteximg.com.br/arquivos/info.png" alt="pregunta ">
-                            </span>
                         </div>
                         <div>
-                            <h4>Términos y condiciones</h4>
+                            <h3>Términos y condiciones</h4>
                             <label for="termPolitics">
                                 <input type="radio" name="termPolitics" id="termPolitics">
                                 Acepto los 
@@ -164,19 +176,27 @@
                             </label>
                         </div>                  
                     </div>                    
-                    <button>Siguiente</button>
+                    <div class="container-button">
+                      <button class="button">Siguiente</button>
+                    </div>
                   </form>
                 </div>
             <!-- PASO 3: FORMA DE PAGO -->
                 <div class="step" id="step3">
                   <h2 class="style-titles">Forma de Pago</h2>
                   <!-- Aquí colocarías las opciones de pago -->
-                  <input type="radio" id="creditCard" name="payment" value="creditCard" required>
-                  <label for="creditCard" class="style-titles">Tarjeta de Crédito</label>
-                  <input type="radio" id="debitCard" name="debitCard" value="debitCard" required>
-                  <label for="debitCard" class="style-titles">Tarjeta de Debito</label>
+                  <label for="creditCard" >
+                    <input type="checkbox" id="creditCard" name="payment" value="creditCard" required>
+                    Tarjeta de Crédito
+                  </label>                  
+                  <label for="debitCard" >
+                    <input type="checkbox" id="debitCard" name="debitCard" value="debitCard" required>
+                    Tarjeta de Debito
+                  </label>
                   <!-- ... y otras opciones de pago que necesites -->
-                  <button >Volver al inicio</button>
+                  <div class="container-button">
+                    <button class="button">Volver al Inicio</button>
+                  </div>
                 </div>            
         </div>
         </div>
