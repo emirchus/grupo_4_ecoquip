@@ -63,7 +63,7 @@ Bienvenido a nuestro sitio web, donde encontrarás todo lo necesario para equipa
 
 👩🏻 <strong><a href="https://github.com/RamirezVero">Veronica Ramirez</a></strong>
 
-🧑🏻 <strong><a href="https://github.com/hernancarreno01">Hernán Carreño</a></strong>
+🧑🏻 <strong><a href="https://github.com/hernancarreno01">Hernán Carreño: </a></strong>
 46 años - Casado con Griselda, dos hijas, Sofi de 14 y Lucia de 10.  Desde muy chico tuve acceso a computadoras y tecnología, mi primera computadora fue la Commodere 64, con la que programaba en LOGO y BASIC, en 1992 me trajeron de EEUU un modem de 14.4mbps el cual tenia un manual de 200 hojas, con el tuve acceso a los primeros BBS y redes privadas en Argentina. Autodidacta, manejo herramientas de diseño, inicié con Corel 3 (era 12 discos de 5 1/14), pase por FrontPage, Dreamweaver, Flash, Photoshop, etc.  Actualmente trabajo en la Administración de un colegio privado en el manejo del Sistema de Cobros, Bancos, debito de aranceles, Profesor de Informática doy clases en nivel secundario y bachillerato de adultos.  Como emprendimento, tengo una pequeña agencia de Social Media que administra varias cuentas en redes sociales y webs de servicios o empresas.
 
 🧑🏻 <strong><a href="https://github.com/emirchus">Emir Ali</a></strong>
