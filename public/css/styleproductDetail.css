@@ -61,7 +61,7 @@
     padding: 0.3em;
     border-radius: 15px;
     border: 1px solid var(--verde-oscuro);
-    color:white;
+    color:var(--gris-claro);
     background-color: var(--verde-oscuro);
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.3);
     transition: all 0.55s;
