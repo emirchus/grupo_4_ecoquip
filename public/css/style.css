@@ -1,21 +1,23 @@
-@import 'styleproductDetail.css';
-
+@import "styleproductDetail.css";
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;700&display=swap");
 :root {
   --verde-oscuro: #658864;
   --verde-oscuro2: #293a28;
-  --verde-claro: #B7B78A;
+  --verde-claro: #b7b78a;
   --verde-aqua: #e0ebe5;
-  --gris-oscuro: #DDDDDD;
-  --gris-claro: #EEEEEE;
-  --blanco: #FFFFFF;
+  --gris-oscuro: #dddddd;
+  --gris-claro: #eeeeee;
+  --blanco: #ffffff;
   --amarillo: #e4cb0c;
 }
-* {  box-sizing: border-box;
-     border-width: 0;
-     border-style: solid;}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 html {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Prompt", sans-serif;
   font-size: 16px;
   line-height: 1.15;
   scroll-behavior: smooth;
@@ -23,21 +25,34 @@ html {
 
 body {
   font-weight: 400;
-  font-style:normal;
+  font-style: normal;
   text-decoration: none;
   text-transform: none;
   letter-spacing: 0.02;
   line-height: 1.55;
   color: var(--verde-oscuro2);
   background-color: var(--gris-claro);
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Prompt", sans-serif;
   margin: 0;
   box-sizing: border-box;
   border-width: 0;
   border-style: solid;
 }
 
-p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {
+p,
+li,
+ul,
+pre,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+figure,
+blockquote,
+figcaption {
   margin: 0;
   padding: 0;
 }
@@ -123,7 +138,6 @@ a {
   padding-left: 24px;
   padding-right: 24px;
   flex-direction: column;
-
 }
 .column {
   display: flex;
