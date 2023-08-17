@@ -10,5 +10,6 @@ router.get("/register", mainController.register);
 router.get("/header", mainController.header);
 router.get("/header2", mainController.header2);
 router.get("/productCreate", mainController.productCreate);
+router.get("/productModify", mainController.productModify);
 
 module.exports = router

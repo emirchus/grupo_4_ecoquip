@@ -22,6 +22,9 @@ const controller = {
     },
     productCreate: (req, res) => {
         res.render('productCreate');
+    },
+    productModify: (req, res) => {
+        res.render('productModify');
     }
 }
 
