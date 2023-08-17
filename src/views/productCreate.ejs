@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <%- include('./partials/head.ejs') %>
+
+        <link rel="stylesheet" href="/css/styleproductCreate.css" />
+
+        <title>EcoEquip - Home</title>
+
+</head>
+
+<body>
+
+    <%- include('./partials/header.ejs') %>
+
+        <div class='containerCreate'>
+            <h3>CREAR NUEVO PRODUCTO</h3>
+            <div class='containerForm'>
+                <form action="" method="post">
+                    <input type="number" name="id" placeholder="ID">
+                    <input type="text" name="type" placeholder="Tipo">
+                    <input type="text" name="model" placeholder="Modelo">
+                    <input type="text" name="name" placeholder="Nombre">
+                    <input type="text" name="description" placeholder="Descripción">
+                    <input type="number" name="price" placeholder="Precio">
+                    <div class="imgUpload">
+                        <label class='labelImg' for="image1">Subir Foto Principal</label>
+                        <input type="file" name="image1" placeholder="Imagen Principal">
+                        <label class='labelImg' for="image2">Subir Foto Modelo 01</label>
+                        <input type="file" name="image2" placeholder="Imagen Modelo 01">
+                        <label class='labelImg' for="image3">Subir Foto Modelo 02</label>
+                        <input type="file" name="image3" placeholder="Imagen Modelo 02">
+                    </div>
+                    <div class="buttonForm">
+                        <input type="submit" value="Crear producto">
+                        <input type="submit" value="Preview">
+                        <input type="reset" value="Borrar datos">
+                    </div>
+                </form>
+
+            </div>
+
+
+        </div>
+
+        <%- include('./partials/footer.ejs') %>
+
+</body>
+
+</html>

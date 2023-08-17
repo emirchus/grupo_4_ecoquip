@@ -19,6 +19,9 @@ const controller = {
     },
     header2: (req, res) => {
         res.render('header2');
+    },
+    productCreate: (req, res) => {
+        res.render('productCreate');
     }
 }
 
