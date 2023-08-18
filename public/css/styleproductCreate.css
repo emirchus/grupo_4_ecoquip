@@ -23,6 +23,7 @@
   }
 
   .containerForm {
+    text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -238,7 +239,7 @@ form {
       color: var(--verde-oscuro);
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
       transition: all 0.5s ease-in-out;
-    },
+    }
     input[type="submit"],
     input[type="reset"] {
       height: 30px;
