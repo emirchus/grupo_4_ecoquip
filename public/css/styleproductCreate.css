@@ -179,6 +179,24 @@ form {
     text-decoration: underline;
     cursor: pointer;
   }
+
+.selector {
+  border-color: var(--verde-oscuro);
+  transform: translateY(-4px);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+  height: 50px;
+  border: 2px solid var(--gris-oscuro);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 0 15px;
+  outline: none;
+  color: var(--verde-oscuro);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.5s ease-in-out;
+}
+
   .signinForm button {
     width: 100%;
     max-width: 400px;

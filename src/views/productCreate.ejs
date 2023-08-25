@@ -18,31 +18,40 @@
         <div class='containerCreate'>
             <h3>CREAR NUEVO PRODUCTO</h3>
             <div class='containerForm'>
-            <form action="" method="post">
-                <div class="containerInput">
-                    <input type="number" name="id" placeholder="ID">
-                    <input type="text" name="type" placeholder="Tipo">
-                    <input type="text" name="model" placeholder="Modelo">
-                    <input type="text" name="name" placeholder="Nombre">
-                    <input type="text" name="description" placeholder="Descripción">
-                    <input type="number" name="price" placeholder="Precio">
-                    <input type="text" name="borrado" placeholder="Borrar">
-                </div>
-                    <div class="imgUpload">
-                        <label class='labelImg' for="image1">Subir Foto Principal</label>
-                        <input type="file" name="image1" placeholder="Imagen Principal">
-                        <label class='labelImg' for="image2">Subir Foto Modelo 01</label>
-                        <input type="file" name="image2" placeholder="Imagen Modelo 01">
-                        <label class='labelImg' for="image3">Subir Foto Modelo 02</label>
-                        <input type="file" name="image3" placeholder="Imagen Modelo 02">
-                    </div>
-                    <div class="buttonForm">
-                        <input type="submit" value="Crear producto">
-                        <input type="submit" value="Preview">
-                        <input type="reset" value="Borrar datos">
-                    </div>
-                </form>
+                <div>
+                    <form action="/products" method="POST" enctype="multipart/form-data">
 
+                        <input type="text" id="nombre" name="nombre" required placeholder="Nombre del Producto"><br><br>
+                
+                        <select class='selector' id="categoria" name="categoria" required>
+                            <option value="" disabled selected>Seleccionar Categoría de Producto</option>
+                            <option value="taza" name="taza">Taza</option>
+                            <option value="botella" name="botella">Botella</option>
+                            <option value="kids" name="kids">Kids</option>
+                            <option value="altaCapacidad" name="altaCapacidad">Alta Capacidad</option>
+                            <option value="coleccion" name="coleccion">Colección "Japan"</option>
+                            <option value="fastflip" name="fastflip">Fast Flip</option>
+                            <option value="ofertas" name="ofertas">Ofertas</option>
+                        </select><br><br>
+            
+                        <input type="text" id="descripcion" name="descripcion" required placeholder="Descripción"><br><br>
+                
+                        <input type="number" id="precio" name="precio" step="0.01" required placeholder="Precio"><br><br>
+                    
+                        <input class='selector' type="file" id="imagen_principal" name="imagen_principal" accept="image/*" required><br><br>
+                
+                        <input class='selector' type="file" id="imagen_color1" name="imagen_color1" accept="image/*" required><br><br>
+                
+                        <input class='selector' type="file" id="imagen_color2" name="imagen_color2" accept="image/*" required><br><br>
+
+                <div class="signinForm">
+                        <button type="submit">Guardar Edición</button>
+                        <button type="button">Preview</button>
+                        <button type="reset" >Borrar Datos</button>
+                </div>
+                    </form>
+
+                </div>
             </div>
 
 
