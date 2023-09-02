@@ -19,7 +19,14 @@ const controller = {
     },
     header2: (req, res) => {
         res.render('header2');
-    }
+    },
+    productCreate: (req, res) => {
+        res.render('productCreate');
+    },
+    productModify: (req, res) => {
+        res.render('productModify');
+    },
+
 }
 
 module.exports = controller
