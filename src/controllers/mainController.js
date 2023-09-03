@@ -1,3 +1,9 @@
+const fs = require('fs');
+const path = require('path');
+
+let listaProductos = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/products.json'), 'utf-8'));
+
+
 const controller = {
     home: (req, res) => {
         res.render('home');
