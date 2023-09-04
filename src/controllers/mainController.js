@@ -32,9 +32,40 @@ const controller = {
         res.render('productCreate');
     },
     productModify: (req, res) => {
-        res.render('productModify');
+        let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
+        res.render('productModify', {producto: productoEncontrado})
     },
+    
+    productCreateProcess:(req, res)=>{
+        let productoNuevo = {
+            "id":listaProductos.length + 1,
+            "name":req.body.nombre,
+            "category":req.body.categoria,
+            /*"image":req.body.imagen_principal,
+            "image2":req.body.imagen_color1,
+            "image3":req.body.imagen_color2,
+            "image4":req.body.imagen_color3,*/
+            "description":req.body.descripcion,
+            "price":req.body.precio,
+            "deleted":false
+        };
+        listaProductos.push(productoNuevo);
+        fs.writeFileSync(path.join(__dirname, '../data/products.json'),JSON.stringify(listaProductos, null,2), 'utf-8')
+        res.redirect('/')
+    },
+    productModifyProcess: (req, res) => {
+        let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
 
+        productoEncontrado.name = req.body.nombre;
+        productoEncontrado.category = req.body.categoria;
+        productoEncontrado.description = req.body.descripcion;
+        productoEncontrado.price = req.body.precio;
+        
+        fs.writeFileSync(path.join(__dirname, '../data/products.json'), JSON.stringify(listaProductos, null, 2), 'utf-8')
+
+        res.render('productModify', {producto: productoEncontrado})
+    },
+    
 }
 
 module.exports = controller
