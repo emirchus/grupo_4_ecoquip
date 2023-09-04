@@ -19,7 +19,7 @@
             <h3>CREAR NUEVO PRODUCTO</h3>
             <div class='containerForm'>
                 <div>
-                    <form action="/products" method="POST" enctype="multipart/form-data">
+                    <form action="/productCreate" method="POST" enctype="multipart/form-data">
 
                         <input type="text" id="nombre" name="nombre" required placeholder="Nombre del Producto"><br><br>
                 
@@ -40,15 +40,16 @@
                     
                         <input class='selector' type="file" id="imagen_principal" name="imagen_principal" accept="image/*" required><br><br>
                 
-                        <input class='selector' type="file" id="imagen_color1" name="imagen_color1" accept="image/*" required><br><br>
+                        <input class='selector' type="file" id="imagen_color1" name="imagen_color1" accept="image/*"><br><br>
                 
-                        <input class='selector' type="file" id="imagen_color2" name="imagen_color2" accept="image/*" required><br><br>
+                        <input class='selector' type="file" id="imagen_color2" name="imagen_color2" accept="image/*"><br><br>
 
-                <div class="signinForm">
+                       
+                    <div class="signinForm">
                         <button type="submit">Guardar Edición</button>
                         <button type="button">Preview</button>
                         <button type="reset" >Borrar Datos</button>
-                </div>
+                    </div>
                     </form>
 
                 </div>

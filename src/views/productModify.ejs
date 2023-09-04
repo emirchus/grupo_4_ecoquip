@@ -18,12 +18,13 @@
         <div class='containerCreate'>
             <h3>MODIFICAR PRODUCTO</h3>
             <div class='containerForm'>
-                <form action="guardar_edicion.php" method="POST" enctype="multipart/form-data">
+                <form action="/productModify/<%= producto.id%>?_method=put" method="POST" enctype="multipart/form-data">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" value=<%= producto.name %>><br><br>
 
-                    <input type="text" id="nombre" name="nombre" required placeholder="Nombre del Producto"><br><br>
-            
+                    <label for="categoria">Categoría</label>            
                     <select class='selector' id="categoria" name="categoria" required>
-                        <option value="" disabled selected>Seleccionar Categoría de Producto</option>
+                        <option value="" disabled selected><%= producto.category%></option>
                         <option value="taza" name="taza">Taza</option>
                         <option value="botella" name="botella">Botella</option>
                         <option value="kids" name="kids">Kids</option>
@@ -32,16 +33,20 @@
                         <option value="fastflip" name="fastflip">Fast Flip</option>
                         <option value="ofertas" name="ofertas">Ofertas</option>
                     </select><br><br>
-        
-                    <input type="text" id="descripcion" name="descripcion" required placeholder="Descripción"><br><br>
-            
-                    <input type="number" id="precio" name="precio" step="0.01" required placeholder="Precio"><br><br>
+
+                    <label for="descripcion">Descripción:</label>      
+                    <input type="text" id="descripcion" name="descripcion"  value=<%= producto.description %>><br><br>
+
+                    <label for="precio">Precio $:</label>            
+                    <input type="number" id="precio" name="precio" value=<%= producto.price%>><br><br>
                 
                     <input class='selector' type="file" id="imagen_principal" name="imagen_principal" accept="image/*" required><br><br>
             
-                    <input class='selector' type="file" id="imagen_color1" name="imagen_color1" accept="image/*" required><br><br>
+                    <input class='selector' type="file" id="imagen_color1" name="imagen_color1" accept="image/*" ><br><br>
             
-                    <input class='selector' type="file" id="imagen_color2" name="imagen_color2" accept="image/*" required><br><br>
+                    <input class='selector' type="file" id="imagen_color2" name="imagen_color2" accept="image/*"><br><br>                   
+                
+
                     <div class="signinForm">
                         <button type="submit" value="previewProd">Preview</button>
                         <button type="submit" value="modificarProd">Modificar producto</button>
