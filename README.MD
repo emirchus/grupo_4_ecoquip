@@ -65,7 +65,7 @@ tengo 37 años y me gusta gusta vivir la vida al máximo. Aunque finalice mis es
 Soy una mezcla de curiosa e inquieta, siempre buscando emociones y desafios. Me encanta viajar, explorar nuevos lugares y experimentar cosas nuevas, culturas diferentes, conocer personas fascinantes y crear recuerdos que durarán toda mi vida. Me gustan los deportes, y disfrutar de la naturaleza.
 
 
-👩🏻 <strong><a href="https://github.com/nahiararomero">Nahiara Romero</a></strong>
+👩🏻 <strong><a href="https://github.com/nahiararomero">Nahiara Romero</a></strong> Tengo 22 años, hincha y fanatica de River, amante de los animales y de cualquier ser vivo por eso soy vegetariana, siempre estudie carreras relacionadas a las Ciencias Sociales y nunca crei despertar algun interes por la Programacion, pero aqui estoy, aunque me cuesta muchisimo ya que es mi primer contacto con este mundo, le pongo muchas ganas y empeño. Espero poder seguir recorriendo siempre este camino con el mismo entusiasmo.
 
 👩🏻 <strong><a href="https://github.com/RamirezVero">Veronica Ramirez</a></strong>
 Soy soltera, tengo 45 años, soy bastante curiosa, me gusta la puntualidad, aprender cosas nuevas y viajar ( team Montaña y por supuesto: team Invierno). Ex estudiante de Veterinaria, me decidí a dejar la carrera cursando 5to año, trabajé en veterinarias como ayudante y peluquera canina hasta ser independiente ( actualmente tengo mi propia peluquería canina). Quería empezar a estudiar algo pero no sabía qué, mientras tanto empecé a aprender alemán de manera autodidacta, luego me topé con la programación, me gustó y acá estoy, aprendiendo mucho con entusiasmo en DH y empezando la Tecnicatura en Informática.
