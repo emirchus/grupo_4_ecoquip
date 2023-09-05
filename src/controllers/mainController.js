@@ -59,6 +59,7 @@ const controller = {
 
         productoEncontrado.name = req.body.nombre;
         productoEncontrado.category = req.body.categoria;
+        productoEncontrado.image = req.body.imagen_principal;
         productoEncontrado.description = req.body.descripcion;
         productoEncontrado.price = req.body.precio;
         
