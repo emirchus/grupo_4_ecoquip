@@ -65,6 +65,27 @@ El último sprint fue una experiencia enriquecedora, donde trabajamos en equipo 
 **Resolución proactiva de problemas:** Sigamos abordando los desafíos de manera proactiva y temprana, evitando la perdida tiempo y manteniendo nuestro enfoque en los objetivos planteados en principio.
 
 
+## Retrospectiva - Sprint 03
+
+**Lo que hicimos bien en el Sprint Anterior:**
+
+**Adaptación ante desafíos:** Continuamos demostrando flexibilidad y adaptabilidad al enfrentar los desafíos que surgieron, incluso a pesar de las ausencias de algunos miembros del equipo. Esta habilidad nos permitió mantener el progreso.
+
+**Mayor claridad en la planificación:** Mantuvimos una planificación realista, tomando en cuenta nuestras experiencias previas y las ausencias en el equipo. Esto nos ayudó a mantener un enfoque equilibrado en las tareas asignadas.
+
+**Comunicación mejorada:** Seguimos mejorando nuestra comunicación, especialmente en situaciones en las que algunos miembros no estaban presentes. Mantuvimos seguimientos periódicos y abordamos los desafíos de manera efectiva.
+
+**Consideración por el tiempo de los demás:** A pesar de las ausencias, continuamos siendo conscientes de la carga de trabajo de los miembros del equipo, minimizando interrupciones innecesarias y fomentando la colaboración.
+
+**Áreas en las que aún podemos mejorar:**
+
+**Optimización de tiempos:** Debemos esforzarnos aún más por ser precisos en la planificación, especialmente al considerar las ausencias de los miembros del equipo y las tareas complejas.
+
+**Profundizar en la retroalimentación:** Aunque hemos avanzado en proporcionar retroalimentación constructiva, debemos profundizar aún más en nuestras discusiones para identificar oportunidades de mejora específicas y acciones concretas.
+
+**Resolución proactiva de problemas:** Continuemos abordando los desafíos de manera proactiva y temprana, incluso en situaciones de ausencia, para mantener nuestro enfoque en los objetivos del sprint.
+
+
 ## Tablero Trello - Grupo #4 - EcoEquip
 
 📋 <strong><a href="https://trello.com/invite/b/Scb6zxY8/ATTI7272b788f3fa90e9d488c6256f3a84252462C99D/ecoequip">Tablero EcoEquip</a></strong>
