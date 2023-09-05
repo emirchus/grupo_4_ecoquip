@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 let listaProductos = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/products.json'), 'utf-8'));
+let listaUsuarios = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/users.json'), 'utf-8'));
 
 
 const controller = {
@@ -34,15 +35,14 @@ const controller = {
     productModify: (req, res) => {
         let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
         res.render('productModify', {producto: productoEncontrado})
-    },
-    
+    },    
     productCreateProcess:(req, res)=>{
         let productoNuevo = {
             "id":listaProductos.length + 1,
             "name":req.body.nombre,
             "category":req.body.categoria,
-            /*"image":req.body.imagen_principal,
-            "image2":req.body.imagen_color1,
+            "image":req.file.filename,
+            /*"image2":req.body.imagen_color1,
             "image3":req.body.imagen_color2,
             "image4":req.body.imagen_color3,*/
             "description":req.body.descripcion,
@@ -80,8 +80,26 @@ const controller = {
         
         fs.writeFileSync(path.join(__dirname, '../data/products.json'), JSON.stringify(listaProductos, null, 2), 'utf-8')
         res.render('productModify', {producto: productoEncontrado})
+    },
+    users: (req, res)=>{
+        let usuariosVisibles = listaUsuarios.filter((user)=> user.deleted == false);
+        res.render('users',{listadoUsuarios: usuariosVisibles})
+    },
+    altaUser:(req, res)=>{
+        let usuarioNuevo = {
+            "id":listaUsuarios.length + 1,
+            /*"userName":req.body.nombre,*/
+            "name":req.body.nombre,
+            "lastName": req.body.apellido, 
+            "email": req.body.email, 
+            "password": req.body.password,
+            "role": "usuario",
+            "deleted": false
+        };
+        listaUsuarios.push(usuarioNuevo);
+        fs.writeFileSync(path.join(__dirname, '../data/users.json'),JSON.stringify(listaUsuarios, null,2), 'utf-8')
+        res.redirect('/')
     }
-    
 }
 
 module.exports = controller

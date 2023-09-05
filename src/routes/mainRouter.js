@@ -13,11 +13,13 @@ router.get("/header", mainController.header);
 router.get("/header2", mainController.header2);
 router.get("/productCreate", mainController.productCreate);
 router.get("/productModify/:id", mainController.productModify);
-
+router.get("/users", mainController.users);
 
 router.post("/productCreate", mainController.productCreateProcess);
 router.put("/productModify/:id", mainController.productModifyProcess);
 router.delete("/productDelete/:id", mainController.productDelete);
 router.put("/productAlta/:id", mainController.recuperarProcess);
+
+router.post("/register", mainController.altaUser);
 
 module.exports = router
