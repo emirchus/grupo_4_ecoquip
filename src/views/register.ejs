@@ -1,62 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" href="/img/ecoequiplogo.ico" type="image/x-icon" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<head>
+
+  <%- include('./partials/head.ejs') %>
+
     <link rel="stylesheet" href="/css/stylelogin.css" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css"
-    />
+
     <title>EcoEquip - Register</title>
-  </head>
+</head>
 
-  <body>
-    <div class="container">
-      <div class="mark">
-        <img src="./img/logoEcoEquipParaFondoClaro.png" alt="EcoEquip" />
-      </div>
-      <div class="form">
-        <h2>Creá tu cuenta</h2>
-        <h3>Ingresá tus datos</h3>
-        <form class="signinForm">
-          <input
-            type="text"
-            autocomplete="name"
-            placeholder="Nombre"
-            aria-label=""
-          />
-          <input
-            type="text"
-            autocomplete="family-name"
-            placeholder="Apellido"
-            aria-label=""
-          />
-          <input
-            type="email"
-            autocomplete="email"
-            placeholder="Correo"
-            aria-label=""
-          />
-          <input
-            type="password"
-            autocomplete="new-password"
-            placeholder="Contraseña"
-          />
-
-          <span
-            >Al registrarte aceptas nuestros
-            <a href="/signup">Términos y Condiciones</a></span
-          >
-          <button type="submit">Registrarse</button>
-        </form>
-        <hr class="divider" />
-        <span>¿Ya tenes una cuenta? <a href="/login">Inicia sesión</a></span>
-      </div>
+<body>
+  <div class="container">
+    <div class="mark">
+      <img src="./img/logoEcoEquipParaFondoClaro.png" alt="EcoEquip" />
     </div>
+    <div class="form">
+      <h2>Creá tu cuenta</h2>
+      <h3>Ingresá tus datos</h3>
+      <form class="signinForm">
+        <input type="text" autocomplete="name" placeholder="Nombre" aria-label="" />
+        <input type="text" autocomplete="family-name" placeholder="Apellido" aria-label="" />
+        <input type="email" autocomplete="email" placeholder="Correo" aria-label="" />
+        <input type="password" autocomplete="new-password" placeholder="Contraseña" />
 
-    <div class="container land"></div>
-  </body>
+        <span>Al registrarte aceptas nuestros
+          <a href="/signup">Términos y Condiciones</a></span>
+        <button type="submit">Registrarse</button>
+      </form>
+      <hr class="divider" />
+      <span>¿Ya tenes una cuenta? <a href="/login">Inicia sesión</a></span>
+    </div>
+  </div>
+
+  <div class="container land"></div>
+</body>
+
 </html>

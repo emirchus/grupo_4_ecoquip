@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "odio condimentum",
+    "category": "Colección",
+    "image": "/img/flipprincipal.png",
+    "image2": "/img/botellasprincipal.png",
+    "image3": "/img/jarroRosa.jpg",
+    "image4": "/img/jarroNgr.png",
+    "description": "a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "model": "justo nec condimentum neque",
+    "price": "$8633.33",
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "name": "tutthtjfhfhfh",
+    "category": "kids",
+    "image": "/img/kidsprincipal.jpg",
+    "image2": "/img/flipprincipal.png",
+    "image3": "/img/flipprincipal.png",
+    "image4": "/img/flipprincipal.png",
+    "description": "semper",
+    "model": "donec ut mauris eget",
+    "price": "222",
+    "deleted": true
+  },
+  {
+    "id": 3,
+    "name": "quam suspendisse",
+    "category": "Taza",
+    "image": "/img/prenda1.png",
+    "image2": "/img/flipprincipal.png",
+    "image3": "/img/flipprincipal.png",
+    "image4": "/img/flipprincipal.png",
+    "description": "aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque",
+    "model": "eu est congue elementum in",
+    "price": "$9342.61",
+    "deleted": false
+  },
+  {
+    "id": 4,
+    "name": "tincidunt",
+    "category": "Taza",
+    "image": "/img/prenda9.png",
+    "image2": "/img/flipprincipal.png",
+    "image3": "/img/flipprincipal.png",
+    "image4": "/img/flipprincipal.png",
+    "description": "praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus",
+    "model": "vivamus vestibulum sagittis sapien cum",
+    "price": "$6687.64",
+    "deleted": false
+  },
+  {
+    "id": 5,
+    "name": "sed tincidunt",
+    "category": "Infantiles",
+    "image": "/img/prenda2.png",
+    "image2": "/img/flipprincipal.png",
+    "image3": "/img/flipprincipal.png",
+    "image4": "/img/flipprincipal.png",
+    "description": "in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis",
+    "model": "mauris non ligula pellentesque",
+    "price": "$11056.94",
+    "deleted": false
+  }
+]

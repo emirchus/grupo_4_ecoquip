@@ -42,6 +42,29 @@ El último sprint fue una experiencia enriquecedora, donde trabajamos en equipo 
     
 2.  **No escatimar en retroalimentación:** Dejar de temer a señalar áreas de mejora y proporcionar retroalimentación constructiva para el crecimiento del equipo.
 
+
+
+## Retrospectiva - Sprint 02
+
+**Lo que hicimos bien en el Sprint Anterior:**
+
+**Adaptación ante desafíos:** Hemos demostrado flexibilidad y adaptabilidad al abordar los problemas que surgieron, especialmente en relación con los problemas de comunicación y los estilos. Hemos aprendido de nuestras dificultades y buscado soluciones creativas.
+
+**Mayor claridad en la planificación:** Hemos implementado una planificación más realista, basada en nuestras experiencias previas, lo que nos ha permitido asignar mejor los tiempos y evitar la presión innecesaria al final del sprint.
+
+**Comunicación mejorada:** Hemos trabajado en mejorar nuestra comunicación, realizando seguimientos periódicos y abordando cualquier conflicto o malentendido de manera efectiva.
+
+**Consideración por el tiempo de los demás:** Hemos tomado en cuenta la carga de trabajo de los miembros del equipo al introducir cambios importantes, buscando minimizar interrupciones innecesarias y fomentando una mayor colaboración ya que algunos de los miembros del equipo se encontraban en receso de vacaciones de invierno.
+
+**Áreas en las que aún podemos mejorar:**
+
+**Optimización de tiempos:** Aunque hemos mejorado en la estimación del tiempo, todavía podemos esforzarnos por ser más precisos en la planificación, especialmente al considerar las tareas más complejas.
+
+**Profundizar en la retroalimentación:** Si bien hemos avanzado en proporcionar retroalimentación constructiva, podríamos profundizar más en nuestras discusiones para identificar oportunidades de mejora específicas y acciones concretas.
+
+**Resolución proactiva de problemas:** Sigamos abordando los desafíos de manera proactiva y temprana, evitando la perdida tiempo y manteniendo nuestro enfoque en los objetivos planteados en principio.
+
+
 ## Tablero Trello - Grupo #4 - EcoEquip
 
 📋 <strong><a href="https://trello.com/invite/b/Scb6zxY8/ATTI7272b788f3fa90e9d488c6256f3a84252462C99D/ecoequip">Tablero EcoEquip</a></strong>
