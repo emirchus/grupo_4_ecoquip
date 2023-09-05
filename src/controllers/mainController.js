@@ -62,6 +62,7 @@ const controller = {
         productoEncontrado.image = req.body.imagen_principal;
         productoEncontrado.description = req.body.descripcion;
         productoEncontrado.price = req.body.precio;
+        productoEncontrado.image = req.file.filename;
         
         fs.writeFileSync(path.join(__dirname, '../data/products.json'), JSON.stringify(listaProductos, null, 2), 'utf-8')
 

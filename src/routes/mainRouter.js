@@ -32,7 +32,7 @@ router.get("/productModify/:id", mainController.productModify);
 router.get("/users", mainController.users);
 
 router.post("/productCreate",  uploadFile.single("imagen_principal"), mainController.productCreateProcess);
-router.put("/productModify/:id", mainController.productModifyProcess);
+router.put("/productModify/:id", uploadFile.single("archivo"), mainController.productModifyProcess);
 router.delete("/productDelete/:id", mainController.productDelete);
 router.put("/productAlta/:id", mainController.recuperarProcess);
 
