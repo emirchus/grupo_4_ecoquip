@@ -35,7 +35,10 @@ const controller = {
         let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
         res.render('productModify', {producto: productoEncontrado})
     },
-    
+    productList: (req, res)=>{
+        let productosVisibles = listaProductos.filter((user)=> user.deleted == false);
+        res.render('productList',{listaProductos: productosVisibles}) 
+    },    
     productCreateProcess:(req, res)=>{
         let productoNuevo = {
             "id":listaProductos.length + 1,
@@ -55,7 +58,7 @@ const controller = {
     },
     productModifyProcess: (req, res) => {
         let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
-
+        
         productoEncontrado.name = req.body.nombre;
         productoEncontrado.category = req.body.categoria;
         productoEncontrado.description = req.body.descripcion;

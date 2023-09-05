@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('./partials/head.ejs') %>
+
+    <title>EcoEquip - Productos</title>
+  </head>
+
+  <body>
+    <%- include('./partials/header.ejs') %>
+    <div  class="table">
+        <h2>Nuestros Productos</h2>        
+          <br>  
+          <% listaProductos.forEach(function(producto) { %>        
+          <h2><%= producto.name%></h2>          
+            <div class="panel-img-precio">
+                <img class="imgPrincipal" src="<%= producto.image%>" alt="taza térmica negra" />
+                <h2 class="precio"><%= producto.price%></h2>
+              </div> 
+              <% }); %>    
+    </div>
+    <%- include('./partials/footer.ejs') %>
+  </body>
+</html>

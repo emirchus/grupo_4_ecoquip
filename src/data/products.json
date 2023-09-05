@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "name": "odio condimentum",
-    "category": "Colección",
+    "name": "mememe",
+    "category": "botella",
     "image": "/img/flipprincipal.png",
     "image2": "/img/botellasprincipal.png",
     "image3": "/img/jarroRosa.jpg",
     "image4": "/img/jarroNgr.png",
-    "description": "a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "description": "AL HORNO",
     "model": "justo nec condimentum neque",
-    "price": "$8633.33",
+    "price": "30000",
     "deleted": false
   },
   {
@@ -27,15 +27,15 @@
   },
   {
     "id": 3,
-    "name": "quam suspendisse",
-    "category": "Taza",
+    "name": "wiwiwi",
+    "category": "botella",
     "image": "/img/prenda1.png",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque",
+    "description": "dkldfdjmdljs",
     "model": "eu est congue elementum in",
-    "price": "$9342.61",
+    "price": "40000",
     "deleted": false
   },
   {

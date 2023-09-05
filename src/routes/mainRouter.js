@@ -13,6 +13,7 @@ router.get("/header", mainController.header);
 router.get("/header2", mainController.header2);
 router.get("/productCreate", mainController.productCreate);
 router.get("/productModify/:id", mainController.productModify);
+router.get('/productList', mainController.productList);
 
 
 router.post("/productCreate", mainController.productCreateProcess);
