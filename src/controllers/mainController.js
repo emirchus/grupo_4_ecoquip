@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const multer = require('multer');
 
 let listaProductos = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/products.json'), 'utf-8'));
 let listaUsuarios = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/users.json'), 'utf-8'));

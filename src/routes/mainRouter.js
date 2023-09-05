@@ -1,6 +1,22 @@
 const express = require('express');
 const router = express.Router();
 const mainController = require('../controllers/mainController')
+const multer = require('multer');
+const path = require('path');
+
+const storage = multer.diskStorage({
+    destination: (req,file,cb)=>{
+        let folder = path.join(__dirname,'../../public/img')
+        cb(null,folder)
+    },
+    filename: (req,file,cb)=>{
+        const uniqueSuffix = Date.now() + Math.round(Math.random() * 1E9)
+        cb(null, uniqueSuffix + path.extname(file.originalname))
+        
+
+    }
+})
+const uploadFile = multer ({ storage})
 
 
 
@@ -15,7 +31,7 @@ router.get("/productCreate", mainController.productCreate);
 router.get("/productModify/:id", mainController.productModify);
 router.get("/users", mainController.users);
 
-router.post("/productCreate", mainController.productCreateProcess);
+router.post("/productCreate",  uploadFile.single("imagen_principal"), mainController.productCreateProcess);
 router.put("/productModify/:id", mainController.productModifyProcess);
 router.delete("/productDelete/:id", mainController.productDelete);
 router.put("/productAlta/:id", mainController.recuperarProcess);
