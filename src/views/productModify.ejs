@@ -48,13 +48,20 @@
                 
 
                     <div class="signinForm">
-                        <button type="submit" value="previewProd">Preview</button>
-                        <button type="submit" value="modificarProd">Modificar producto</button>
-                        <button type="submit" value="borrarProd">Borrar datos</button>
-                        <button type="reset" value="resetForm">Eliminar producto</button>
+                        <!--<button type="submit">Preview</button>-->
+                        <button type="submit">Modificar producto</button>
+                        <!--<button type="submit">Borrar datos</button>-->
                     </div>
                 </form>
-
+                <% if(producto.deleted == false){%>
+                <form action="/productDelete/<%= producto.id%>?_method=delete" method="post">
+                    <button type="submit" >Eliminar producto</button>
+                </form>                
+                <% }else{ %>
+                <form action="/productAlta/<%= producto.id%>?_method=put" method="post">
+                    <button type="submit" >Recuperar producto</button>
+                </form>                        
+                <% } %>
             </div>
 
 
