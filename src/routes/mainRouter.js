@@ -17,5 +17,7 @@ router.get("/productModify/:id", mainController.productModify);
 
 router.post("/productCreate", mainController.productCreateProcess);
 router.put("/productModify/:id", mainController.productModifyProcess);
+router.delete("/productDelete/:id", mainController.productDelete);
+router.put("/productAlta/:id", mainController.recuperarProcess);
 
 module.exports = router

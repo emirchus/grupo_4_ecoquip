@@ -65,6 +65,22 @@ const controller = {
 
         res.render('productModify', {producto: productoEncontrado})
     },
+    productDelete:  (req, res) => {
+        let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
+
+        productoEncontrado.deleted = true;        
+        
+        fs.writeFileSync(path.join(__dirname, '../data/products.json'), JSON.stringify(listaProductos, null, 2), 'utf-8')
+        res.render('productModify', {producto: productoEncontrado})
+    },
+    recuperarProcess:  (req, res) => {
+        let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
+
+        productoEncontrado.deleted = false;        
+        
+        fs.writeFileSync(path.join(__dirname, '../data/products.json'), JSON.stringify(listaProductos, null, 2), 'utf-8')
+        res.render('productModify', {producto: productoEncontrado})
+    }
     
 }
 
