@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('./partials/head.ejs') %>
+
+    <title>EcoEquip - Usuarios</title>
+  </head>
+
+  <body>
+    <%- include('./partials/header.ejs') %>
+    <div  class="table">
+        <h2>Lista de Usuarios</h2>
+        <thead>
+            <tr>
+              <th>Nombre de Usuario</th>
+              <th>Nombre</th>
+              <th>Apellido</th>
+              <th>Correo Electrónico</th>
+              <th>Rol</th>       
+              <th>Borrado?</th>
+            </tr>
+          </thead>
+          <br>
+          <tbody>
+            <% listadoUsuarios.forEach(function(usuario) { %>
+              <tr>
+                <td><%= usuario.userName %></td>
+                <td><%= usuario.firstName %></td>
+                <td><%= usuario.lastName %></td>
+                <td><%= usuario.email %></td>
+                <td><%= usuario.role %></td>
+                <td><%= usuario.deleted %></td>
+              </tr><br>
+            <% }); %>
+          </tbody>
+        </table>
+    </div>
+    
+    
+    
+
+    <%- include('./partials/footer.ejs') %>
+  </body>
+</html>

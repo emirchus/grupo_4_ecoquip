@@ -53,15 +53,42 @@
   },
   {
     "id": 5,
-    "name": "sed tincidunt",
-    "category": "Infantiles",
-    "image": "/img/prenda2.png",
+    "name": "sed",
+    "category": "taza",
+    "image": "1694323929901.jpg",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis",
+    "description": "in",
     "model": "mauris non ligula pellentesque",
     "price": "$11056.94",
+    "deleted": false
+  },
+  {
+    "id": 6,
+    "name": "Taza violeta",
+    "category": "fastflip",
+    "image": "1694735222841.jpg",
+    "description": "Con lunares",
+    "price": "22",
+    "deleted": false
+  },
+  {
+    "id": 7,
+    "name": "tazablanca",
+    "category": "taza",
+    "image": "1694205433535.jpg",
+    "description": "Frito",
+    "price": "11",
+    "deleted": true
+  },
+  {
+    "id": 8,
+    "name": "55",
+    "category": "botella",
+    "image": "1694359162995.webp",
+    "description": "con ",
+    "price": "22",
     "deleted": false
   }
 ]
