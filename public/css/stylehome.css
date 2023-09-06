@@ -224,6 +224,7 @@
   align-items: center;
   padding-top: 16px;
   flex-direction: column;
+  flex-wrap: nowrap;
 }
 .home.con .home-navbar {
   top: 0;
@@ -963,6 +964,37 @@
 }
 .home-text56 {
   font-size: smaller;
+}
+
+.userList {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.userTitle {
+  text-shadow: 4px 4px;             /* Equivalente a 4px 4px 0 black */
+  text-shadow: 4px 4px 2px;         /* Equivalente a 4px 4px 2px black */
+  text-shadow: 4px 4px 5px var(--verde-claro);
+  font-size: 0.9rem;
+  }
+.userInfo {
+  font-size: 1rem;
+  color: var(--verde-oscuro2);
+  padding-left: 15px;
+}
+.UserImg {
+  max-width: 150px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  margin-top: 6px;
+}
+
+hr.rounded {
+  border-top: 8px solid var(--verde-oscuro);
+  border-radius: 5px;
+  margin-top: 10px;
+  width: 100%;
 }
 
 /* 

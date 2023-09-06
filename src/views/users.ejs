@@ -11,27 +11,31 @@
     <div  class="table">
         <h2>Lista de Usuarios</h2>
         <thead>
-            <tr>
-              <th>Nombre de Usuario</th>
-              <th>Nombre</th>
-              <th>Apellido</th>
-              <th>Correo Electrónico</th>
-              <th>Rol</th>       
-              <th>Borrado?</th>
-            </tr>
           </thead>
           <br>
           <tbody>
-            <% listadoUsuarios.forEach(function(usuario) { %>
-              <tr>
-                <td><%= usuario.userName %></td>
-                <td><%= usuario.firstName %></td>
-                <td><%= usuario.lastName %></td>
-                <td><%= usuario.email %></td>
-                <td><%= usuario.role %></td>
-                <td><%= usuario.deleted %></td>
-              </tr><br>
-            <% }); %>
+            <section class="userList">
+              <% listadoUsuarios.forEach(function(usuario) { %>
+                <tr>
+                  <ul><hr class="rounded">
+                    <li class="userTitle"><th>Foto de Perfil: </th></li>
+                    <li class="userInfo"><td>   <img class="UserImg" src="<%= usuario.avatar%>" />    </td></li>
+                    <li class="userTitle"><th>Nombre de Usuario: </th></li>
+                    <li class="userInfo"><td><%= usuario.userName %></td></li>
+                    <li class="userTitle"><th>Nombre: </th></li>
+                    <li class="userInfo"><td><%= usuario.firstName %></td></li>
+                    <li class="userTitle"><th>Apellido: </th></li>
+                    <li class="userInfo"><td><%= usuario.lastName %></td></li>
+                    <li class="userTitle"><th>Correo Electrónico: </th></li>
+                    <li class="userInfo"><td><%= usuario.email %></td></li>
+                    <li class="userTitle"><th>Rol: </th>   </li>
+                    <li class="userInfo"><td><%= usuario.role %></td></li>
+                    <li class="userTitle"><th>Borrado?: </th></li>
+                    <li class="userInfo"><td><%= usuario.deleted %></td></li>
+                  </ul>
+                </tr><br>
+              <% }); %>
+          </section>
           </tbody>
         </table>
     </div>
