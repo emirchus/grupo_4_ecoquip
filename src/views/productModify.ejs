@@ -55,7 +55,9 @@
                 </form>
                 <% if(producto.deleted == false){%>
                 <form action="/productDelete/<%= producto.id%>?_method=delete" method="post">
-                    <button type="submit" >Eliminar producto</button>
+                    <div class="signinForm">
+                        <button type="submit" >Eliminar producto</button>
+                    </div>
                 </form>                
                 <% }else{ %>
                 <form action="/productAlta/<%= producto.id%>?_method=put" method="post">
