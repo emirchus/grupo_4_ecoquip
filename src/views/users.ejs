@@ -16,7 +16,7 @@
           <tbody>
             <section class="userList">
               <% listadoUsuarios.forEach(function(usuario) { %>
-                <tr>
+                <div class="userProfile">
                   <ul><hr class="rounded">
                     <li class="userTitle"><th>Foto de Perfil: </th></li>
                     <li class="userInfo"><td>   <img class="UserImg" src="<%= usuario.avatar%>" />    </td></li>
@@ -33,6 +33,7 @@
                     <li class="userTitle"><th>Borrado?: </th></li>
                     <li class="userInfo"><td><%= usuario.deleted %></td></li>
                   </ul>
+                 </div> 
                 </tr><br>
               <% }); %>
           </section>

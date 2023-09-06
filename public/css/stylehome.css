@@ -968,8 +968,23 @@
 
 .userList {
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+}
+
+.userProfile {
+  border: #293a28 solid 4px;
+  width: calc(30% - 20px);
+  padding: 10px; /* Espaciado interno para cada perfil */
+  box-sizing: border-box;
+}
+
+.userProfile .UserImg {
+  max-width: 100%;
+  height: auto;
 }
 
 .userTitle {
@@ -979,9 +994,12 @@
   font-size: 0.9rem;
   }
 .userInfo {
-  font-size: 1rem;
+  font-size: 0.8em;
   color: var(--verde-oscuro2);
   padding-left: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .UserImg {
   max-width: 150px;
@@ -1079,6 +1097,31 @@ hr.rounded {
   .home-container11 {
     margin-right: 16px;
   }
+
+
+.userList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  flex-direction: column;
+  align-content: center;
+  align-items: stretch;
+}
+
+.userProfile {
+  border: var(--verde-oscuro) solid 4px;
+  width: calc(90% - 1px);
+  padding: 10px; /* Espaciado interno para cada perfil */
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.userInfo {
+  font-size: 0.8rem;
+  color: var(--verde-oscuro2);
+  padding-left: 15px;
+}
+
 }
 
 @media (max-width: 767px) {
