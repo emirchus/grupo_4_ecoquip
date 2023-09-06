@@ -3,13 +3,13 @@
     "id": 1,
     "name": "Ihhh",
     "category": "botella",
-    "image": "waterdog negro.webp",
+    "image": "/img/botellasprincipal.png",
     "image2": "/img/botellasprincipal.png",
     "image3": "/img/jarroRosa.jpg",
     "image4": "/img/jarroNgr.png",
     "description": "55",
     "model": "justo nec condimentum neque",
-    "price": "44",
+    "price": "$ 44",
     "deleted": false
   },
   {
@@ -22,7 +22,7 @@
     "image4": "/img/flipprincipal.png",
     "description": "semper",
     "model": "donec ut mauris eget",
-    "price": "222",
+    "price": "$ 222",
     "deleted": true
   },
   {
@@ -35,7 +35,7 @@
     "image4": "/img/flipprincipal.png",
     "description": "aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque",
     "model": "eu est congue elementum in",
-    "price": "$9342.61",
+    "price": "$ $9342.61",
     "deleted": false
   },
   {
@@ -48,20 +48,20 @@
     "image4": "/img/flipprincipal.png",
     "description": "praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus",
     "model": "vivamus vestibulum sagittis sapien cum",
-    "price": "$6687.64",
+    "price": "$ $6687.64",
     "deleted": false
   },
   {
     "id": 5,
     "name": "sed",
     "category": "taza",
-    "image": "1694323929901.jpg",
+    "image1": "1694323929901.jpg",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
     "description": "in",
     "model": "mauris non ligula pellentesque",
-    "price": "$11056.94",
+    "price": "$ $11056.94",
     "deleted": false
   },
   {
@@ -70,7 +70,7 @@
     "category": "fastflip",
     "image": "1694735222841.jpg",
     "description": "Con lunares",
-    "price": "22",
+    "price": "$ 22",
     "deleted": false
   },
   {
@@ -79,7 +79,7 @@
     "category": "taza",
     "image": "1694205433535.jpg",
     "description": "Frito",
-    "price": "11",
+    "price": "$ 11",
     "deleted": true
   },
   {
@@ -88,7 +88,7 @@
     "category": "botella",
     "image": "1694359162995.webp",
     "description": "con ",
-    "price": "22",
+    "price": "$ 22",
     "deleted": false
   }
 ]
