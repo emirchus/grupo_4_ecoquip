@@ -61,6 +61,7 @@ const controller = {
     productModifyProcess: (req, res) => {
         let productoEncontrado = listaProductos.find(( producto)=> producto.id == req.params.id)
         
+        
         productoEncontrado.name = req.body.nombre;
         productoEncontrado.category = req.body.categoria;
         productoEncontrado.image = req.body.imagen_principal;
