@@ -14,8 +14,12 @@
 }
 
 .table {
-    width: 70%;
+    width: 80%;
     border-collapse: collapse;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 tr{
     width: 70%

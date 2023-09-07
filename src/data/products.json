@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+<<<<<<< HEAD
     "name": "mememesasdsda",
     "category": "coleccion",
     "image": "1694929723352.jpg",
@@ -10,23 +11,35 @@
     "description": "AL",
     "model": "justo nec condimentum neque",
     "price": "30000",
+=======
+    "name": "ChillMate",
+    "category": "botella",
+    "image": "/img/botellasprincipal.png",
+    "image2": "/img/flipprincipal.png",
+    "image3": "/img/flipprincipal.png",
+    "image4": "/img/flipprincipal.png",
+    "description": "Botella especialmente diseñado para los que buscan estar acompañados de un buen mate en cada aventura",
+    "model": "Model 2367",
+    "price": "$ 44",
+>>>>>>> 3d11107674a88b17e6e9d6a366da161c77401a70
     "deleted": false
   },
   {
     "id": 2,
-    "name": "tutthtjfhfhfh",
-    "category": "kids",
+    "name": "AquaBuddy",
+    "category": "Botella",
     "image": "/img/kidsprincipal.jpg",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "semper",
-    "model": "donec ut mauris eget",
-    "price": "222",
+    "description": "La botella AquaBuddy es la compañera perfecta para los más pequeños aventureros.",
+    "model": "Model 5421",
+    "price": "$ 222",
     "deleted": true
   },
   {
     "id": 3,
+<<<<<<< HEAD
     "name": "wiwiwi",
     "category": "botella",
     "image": "/img/prenda1.png",
@@ -36,59 +49,43 @@
     "description": "dkldfdjmdljs",
     "model": "eu est congue elementum in",
     "price": "40000",
+=======
+    "name": "ThermoWave",
+    "category": "taza",
+    "image": "/img/jarroceleste.png",
+    "image2": "/img/flipprincipal.png",
+    "image3": "/img/flipprincipal.png",
+    "image4": "/img/flipprincipal.png",
+    "description": "Con ThermoWave, disfrutarás de tus bebidas favoritas en su mejor estado, sin importar dónde te encuentres.",
+    "model": "Model 8475",
+    "price": "$ 934",
+>>>>>>> 3d11107674a88b17e6e9d6a366da161c77401a70
     "deleted": false
   },
   {
     "id": 4,
-    "name": "tincidunt",
-    "category": "Taza",
-    "image": "/img/prenda9.png",
+    "name": "HydroPro",
+    "category": "taza",
+    "image": "/img/jarroRosa.png",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus",
-    "model": "vivamus vestibulum sagittis sapien cum",
-    "price": "$6687.64",
+    "description": "Diseñado con precisión para los amantes de la hidratación, este vaso combina estilo y funcionalidad.",
+    "model": "Model 4788",
+    "price": "$ 668",
     "deleted": false
   },
   {
     "id": 5,
-    "name": "sed",
-    "category": "taza",
-    "image": "1694323929901.jpg",
+    "name": "QuickPour",
+    "category": "fastflip",
+    "image": "/img/flipprincipal.png",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "in",
-    "model": "mauris non ligula pellentesque",
-    "price": "$11056.94",
-    "deleted": false
-  },
-  {
-    "id": 6,
-    "name": "Taza violeta",
-    "category": "fastflip",
-    "image": "1694735222841.jpg",
-    "description": "Con lunares",
-    "price": "22",
-    "deleted": false
-  },
-  {
-    "id": 7,
-    "name": "tazablanca",
-    "category": "taza",
-    "image": "1694205433535.jpg",
-    "description": "Frito",
-    "price": "11",
-    "deleted": true
-  },
-  {
-    "id": 8,
-    "name": "55",
-    "category": "botella",
-    "image": "1694359162995.webp",
-    "description": "con ",
-    "price": "22",
+    "description": "La hidratación rápida y fresca está al alcance de tu mano en cualquier momento.",
+    "model": "Model 2215",
+    "price": "$ 1105",
     "deleted": false
   }
 ]

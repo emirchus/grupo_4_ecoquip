@@ -224,6 +224,7 @@
   align-items: center;
   padding-top: 16px;
   flex-direction: column;
+  flex-wrap: nowrap;
 }
 .home.con .home-navbar {
   top: 0;
@@ -965,6 +966,55 @@
   font-size: smaller;
 }
 
+.userList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+}
+
+.userProfile {
+  border: #293a28 solid 4px;
+  width: calc(30% - 20px);
+  padding: 10px; /* Espaciado interno para cada perfil */
+  box-sizing: border-box;
+}
+
+.userProfile .UserImg {
+  max-width: 100%;
+  height: auto;
+}
+
+.userTitle {
+  text-shadow: 4px 4px;             /* Equivalente a 4px 4px 0 black */
+  text-shadow: 4px 4px 2px;         /* Equivalente a 4px 4px 2px black */
+  text-shadow: 4px 4px 5px var(--verde-claro);
+  font-size: 0.9rem;
+  }
+.userInfo {
+  font-size: 0.8em;
+  color: var(--verde-oscuro2);
+  padding-left: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.UserImg {
+  max-width: 150px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  margin-top: 6px;
+}
+
+hr.rounded {
+  border-top: 8px solid var(--verde-oscuro);
+  border-radius: 5px;
+  margin-top: 10px;
+  width: 100%;
+}
+
 /* 
 -----SET MEDIA QUERIES --------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------
@@ -1047,6 +1097,31 @@
   .home-container11 {
     margin-right: 16px;
   }
+
+
+.userList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  flex-direction: column;
+  align-content: center;
+  align-items: stretch;
+}
+
+.userProfile {
+  border: var(--verde-oscuro) solid 4px;
+  width: calc(90% - 1px);
+  padding: 10px; /* Espaciado interno para cada perfil */
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.userInfo {
+  font-size: 0.8rem;
+  color: var(--verde-oscuro2);
+  padding-left: 15px;
+}
+
 }
 
 @media (max-width: 767px) {

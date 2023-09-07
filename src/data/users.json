@@ -8,7 +8,7 @@
     "adress": "Calle Falsa 123",
     "city": "SanMi",
     "password": "iL4/SETiD",
-    "avatar": "/images/avatars/kipa.jpg",
+    "avatar": "/img/avatars/user01.jpeg",
     "telephone": "12345678",
     "role": "admin",
     "deleted": false
@@ -22,7 +22,7 @@
     "adress": "Calle Falsa 123",
     "city": "SanMi",
     "password": "sA3%})+",
-    "avatar": "/images/avatars/pretzel.jpg",
+    "avatar": "/img/avatars/user02.jpeg",
     "telephone": "12345678",
     "role": "admin",
     "deleted": false
@@ -36,7 +36,7 @@
     "adress": "Calle Falsa 123",
     "city": "SanMi",
     "password": "oM2!RWaL",
-    "avatar": "/images/avatars/jala.jpg",
+    "avatar": "/img/avatars/defaultAvatar.png",
     "telephone": "12345678",
     "role": "usuario",
     "deleted": false
@@ -50,7 +50,7 @@
     "adress": "Calle Falsa 123",
     "city": "SanMi",
     "password": "tL4,KJ`0",
-    "avatar": "/images/avatars/polloCorazon.jpg",
+    "avatar": "/img/avatars/defaultAvatar.png",
     "telephone": "12345678",
     "role": "usuario",
     "deleted": false
@@ -64,24 +64,9 @@
     "adress": "Calle Falsa 123",
     "city": "SanMi",
     "password": "dU1{3GQ",
-    "avatar": "/images/avatars/pletzale.jpg",
+    "avatar": "/img/avatars/defaultAvatar.png",
     "telephone": "12345678",
     "role": "usuario",
-    "deleted": false
-  },
-  {
-    "id": 6,
-    "name": "Vero",
-    "lastName": "Ramirez",
-    "email": "vero@ram.com",
-    "password": "123"
-  },
-  {
-    "id": 7,
-    "name": "Omnis",
-    "lastName": "Ramirez",
-    "email": "gn@jj.com",
-    "password": "234",
     "deleted": false
   }
 ]
