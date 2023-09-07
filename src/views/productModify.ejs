@@ -18,7 +18,7 @@
         <div class='containerCreate'>
             <h3>MODIFICAR PRODUCTO</h3>
             <div class='containerForm'>
-                <form action="/productModify/<%= producto.id%>?_method=put" method="POST" >
+                <form action="/productModify/<%= producto.id%>?_method=put" method="POST" enctype="multipart/form-data">
                     <label for="nombre">Nombre:</label>
                     <input type="text" id="nombre" name="nombre" value=<%= producto.name %>><br><br>
 
@@ -40,11 +40,11 @@
                     <label for="precio">Precio $:</label>            
                     <input type="number" id="precio" name="precio" value=<%= producto.price%>><br><br>
                 
-                    <input class='selector' type="file" id="imagen_principal" name="imagen_principal" accept="image/*" required><br><br>
+                    <input class='selector' type="file" id="archivo" name="archivo" accept="image/*" required><br><br>
             
-                    <input class='selector' type="file" id="imagen_color1" name="imagen_color1" accept="image/*" ><br><br>
+                   <!-- <input class='selector' type="file" id="imagen_color1" name="imagen_color1" accept="image/*" ><br><br>
             
-                    <input class='selector' type="file" id="imagen_color2" name="imagen_color2" accept="image/*"><br><br>                   
+                    <input class='selector' type="file" id="imagen_color2" name="imagen_color2" accept="image/*" ><br><br> -->                  
                 
 
                     <div class="signinForm">
@@ -55,14 +55,15 @@
                 </form>
                 <% if(producto.deleted == false){%>
                 <form action="/productDelete/<%= producto.id%>?_method=delete" method="post">
-                    <button type="submit">Eliminar producto</button>
+                    <div class="signinForm">
+                        <button type="submit" >Eliminar producto</button>
+                    </div>
                 </form>                
                 <% }else{ %>
                 <form action="/productAlta/<%= producto.id%>?_method=put" method="post">
-                    <button type="submit">Recuperar producto</button>
+                    <button type="submit" >Recuperar producto</button>
                 </form>                        
                 <% } %>
-
             </div>
 
 

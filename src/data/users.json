@@ -1,12 +1,72 @@
-[{"id":1,"firstName":"Evelyn","lastName":"Cramer","email":"ecramer0@examiner.com","adress":"Calle Falsa 123","city":"SanMi","password":"iL4/SETiD","role":"Customer","avatar":"/images/avatars/kipa.jpg","telephone":"12345678","deleted":false},
-{"id":2,"firstName":"Krisha","lastName":"Cormode","email":"kcormode1@businessinsider.com","adress":"Calle Falsa 123","city":"SanMi","password":"sA3%})+","role":"Customer","avatar":"/images/avatars/pretzel.jpg","telephone":"12345678","deleted":false},
-{"id":3,"firstName":"Amber","lastName":"Fortin","email":"afortin2@cam.ac.uk","adress":"Calle Falsa 123","city":"SanMi","password":"oM2!RWaL","role":"Admin","avatar":"/images/avatars/jala.jpg","telephone":"12345678","deleted":false},
-{"id":4,"firstName":"Bevon","lastName":"Dory","email":"bdory3@eventbrite.com","adress":"Calle Falsa 123","city":"SanMi","password":"tL4,KJ`0","role":"Admin","avatar":"/images/avatars/polloCorazon.jpg","telephone":"12345678","deleted":false},
-{"id":5,"firstName":"Beilul","lastName":"Ibotson","email":"bibotson4@yahoo.co.jp","adress":"Calle Falsa 123","city":"SanMi","password":"dU1{3GQ","role":"Admin","avatar":"/images/avatars/pletzale.jpg","telephone":"12345678","deleted":false},
-{"id":6,"firstName":"Codi","lastName":"Poetz","email":"cpoetz5@slideshare.net","adress":"Calle Falsa 123","city":"SanMi","password":"zL9,th!AgL$}","role":"Customer","avatar":"/images/avatars/jala.jpg","telephone":"12345678","deleted":false},
-{"id":7,"firstName":"Elton","lastName":"Crewther","email":"ecrewther6@vistaprint.com","adress":"Calle Falsa 123","city":"SanMi","password":"mH0+\".M","role":"Customer","avatar":"/images/avatars/pretzel.jpg","telephone":"12345678","deleted":false},
-{"id":8,"firstName":"Alix","lastName":"Akker","email":"aakker7@bravesites.com","adress":"Calle Falsa 123","city":"SanMi","password":"bI3{PnTmBr4","role":"Admin","avatar":"/images/avatars/pletzale.jpg","telephone":"12345678","deleted":false},
-{"id":9,"firstName":"Roze","lastName":"Siemons","email":"rsiemons8@rambler.ru","adress":"Calle Falsa 123","city":"SanMi","password":"uB1.M>fFS+)M","role":"Customer","avatar":"/images/avatars/tostada.jpg","telephone":"12345678","deleted":false},
-{"id":10,"firstName":"Erick","lastName":"Longdon","email":"elongdon9@wsj.com","adress":"Calle Falsa 123","city":"SanMi","password":"tD3=M2u1Y}c","role":"Customer","avatar":"/images/avatars/jala.jpg","telephone":"12345678","deleted":false}
+[
+  {
+    "id": 1,
+    "userName": "Chochi",
+    "firstName": "Evelyn",
+    "lastName": "Cramer",
+    "email": "ecramer0@examiner.com",
+    "adress": "Calle Falsa 123",
+    "city": "SanMi",
+    "password": "iL4/SETiD",
+    "avatar": "/img/avatars/user01.jpeg",
+    "telephone": "12345678",
+    "role": "admin",
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "userName": "Pochi",
+    "firstName": "Krisha",
+    "lastName": "Cormode",
+    "email": "kcormode1@businessinsider.com",
+    "adress": "Calle Falsa 123",
+    "city": "SanMi",
+    "password": "sA3%})+",
+    "avatar": "/img/avatars/user02.jpeg",
+    "telephone": "12345678",
+    "role": "admin",
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "userName": "Pocho",
+    "firstName": "Amber",
+    "lastName": "Fortin",
+    "email": "afortin2@cam.ac.uk",
+    "adress": "Calle Falsa 123",
+    "city": "SanMi",
+    "password": "oM2!RWaL",
+    "avatar": "/img/avatars/defaultAvatar.png",
+    "telephone": "12345678",
+    "role": "usuario",
+    "deleted": false
+  },
+  {
+    "id": 4,
+    "userName": "Tino",
+    "firstName": "Bevon",
+    "lastName": "Dory",
+    "email": "bdory3@eventbrite.com",
+    "adress": "Calle Falsa 123",
+    "city": "SanMi",
+    "password": "tL4,KJ`0",
+    "avatar": "/img/avatars/defaultAvatar.png",
+    "telephone": "12345678",
+    "role": "usuario",
+    "deleted": false
+  },
+  {
+    "id": 5,
+    "userName": "Toto",
+    "firstName": "Beilul",
+    "lastName": "Ibotson",
+    "email": "bibotson4@yahoo.co.jp",
+    "adress": "Calle Falsa 123",
+    "city": "SanMi",
+    "password": "dU1{3GQ",
+    "avatar": "/img/avatars/defaultAvatar.png",
+    "telephone": "12345678",
+    "role": "usuario",
+    "deleted": false
+  }
 ]
-
