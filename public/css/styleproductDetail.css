@@ -40,10 +40,10 @@
     width: 100%;
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.3);
     border-radius: 5%;
-    
+    border: #658864 solid 6px;
 }
 .precio{
-    font-size: 28px;
+    font-size: 1.4rem;
     color: var(--verde-oscuro);
     position: absolute;
     top: 20px;
@@ -238,6 +238,6 @@ ul li{
     .bloque-inf{
         width: 45%;
     }
-}
+  }
 
 
