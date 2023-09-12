@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-<<<<<<< HEAD
     "name": "mememesasdsda",
     "category": "coleccion",
     "image": "1694929723352.jpg",
@@ -11,17 +10,6 @@
     "description": "AL",
     "model": "justo nec condimentum neque",
     "price": "30000",
-=======
-    "name": "ChillMate",
-    "category": "botella",
-    "image": "/img/botellasprincipal.png",
-    "image2": "/img/flipprincipal.png",
-    "image3": "/img/flipprincipal.png",
-    "image4": "/img/flipprincipal.png",
-    "description": "Botella especialmente diseñado para los que buscan estar acompañados de un buen mate en cada aventura",
-    "model": "Model 2367",
-    "price": "$ 44",
->>>>>>> 3d11107674a88b17e6e9d6a366da161c77401a70
     "deleted": false
   },
   {
@@ -39,7 +27,6 @@
   },
   {
     "id": 3,
-<<<<<<< HEAD
     "name": "wiwiwi",
     "category": "botella",
     "image": "/img/prenda1.png",
@@ -49,17 +36,6 @@
     "description": "dkldfdjmdljs",
     "model": "eu est congue elementum in",
     "price": "40000",
-=======
-    "name": "ThermoWave",
-    "category": "taza",
-    "image": "/img/jarroceleste.png",
-    "image2": "/img/flipprincipal.png",
-    "image3": "/img/flipprincipal.png",
-    "image4": "/img/flipprincipal.png",
-    "description": "Con ThermoWave, disfrutarás de tus bebidas favoritas en su mejor estado, sin importar dónde te encuentres.",
-    "model": "Model 8475",
-    "price": "$ 934",
->>>>>>> 3d11107674a88b17e6e9d6a366da161c77401a70
     "deleted": false
   },
   {
