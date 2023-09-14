@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "mememesasdsda",
-    "category": "coleccion",
-    "image": "1694929723352.jpg",
+    "name": "Cambiame",
+    "category": "kids",
+    "image": "1694703191536.png",
     "image2": "/img/botellasprincipal.png",
     "image3": "/img/jarroRosa.jpg",
     "image4": "/img/jarroNgr.png",
@@ -53,15 +53,11 @@
   },
   {
     "id": 5,
-    "name": "QuickPour",
-    "category": "fastflip",
-    "image": "/img/flipprincipal.png",
-    "image2": "/img/flipprincipal.png",
-    "image3": "/img/flipprincipal.png",
-    "image4": "/img/flipprincipal.png",
-    "description": "La hidratación rápida y fresca está al alcance de tu mano en cualquier momento.",
-    "model": "Model 2215",
-    "price": "$ 1105",
+    "name": "Vaso termico colorido",
+    "category": "altaCapacidad",
+    "image": "1695693821593.jpg",
+    "description": "Plastico",
+    "price": "222222",
     "deleted": false
   }
 ]
