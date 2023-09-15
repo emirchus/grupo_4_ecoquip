@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "name": "Cambiame",
+    "name": "Vaso Largo",
     "category": "fastflip",
-    "image": "1694953977650.jpg",
+    "image": "1695401135378.jpg",
     "image2": "/img/botellasprincipal.png",
     "image3": "/img/jarroRosa.jpg",
     "image4": "/img/jarroNgr.png",
-    "description": "AL",
+    "description": "Vaso Metálico color Blanco ",
     "model": "justo nec condimentum neque",
     "price": "30000",
     "deleted": false
@@ -15,27 +15,27 @@
   {
     "id": 2,
     "name": "AquaBuddy",
-    "category": "coleccion",
-    "image": "1695722463969.png",
+    "category": "kids",
+    "image": "1695594676230.jpg",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "La",
+    "description": "La Botella para los  más peques de la casa.",
     "model": "Model 5421",
     "price": "3333",
-    "deleted": true
+    "deleted": false
   },
   {
     "id": 3,
-    "name": "wiwiwi",
-    "category": "taza",
-    "image": "1695060456855.jpg",
+    "name": "Jarro Celeste",
+    "category": "botella",
+    "image": "1695454004959.png",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "dkldfdjmdljs",
+    "description": "Jarro de 20 cm",
     "model": "eu est congue elementum in",
-    "price": "40000",
+    "price": "20000",
     "deleted": false
   },
   {
