@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Cambiame",
-    "category": "kids",
-    "image": "1694703191536.png",
+    "category": "fastflip",
+    "image": "1694953977650.jpg",
     "image2": "/img/botellasprincipal.png",
     "image3": "/img/jarroRosa.jpg",
     "image4": "/img/jarroNgr.png",
@@ -15,21 +15,21 @@
   {
     "id": 2,
     "name": "AquaBuddy",
-    "category": "Botella",
-    "image": "/img/kidsprincipal.jpg",
+    "category": "coleccion",
+    "image": "1695722463969.png",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
-    "description": "La botella AquaBuddy es la compañera perfecta para los más pequeños aventureros.",
+    "description": "La",
     "model": "Model 5421",
-    "price": "$ 222",
+    "price": "3333",
     "deleted": true
   },
   {
     "id": 3,
     "name": "wiwiwi",
-    "category": "botella",
-    "image": "/img/prenda1.png",
+    "category": "taza",
+    "image": "1695060456855.jpg",
     "image2": "/img/flipprincipal.png",
     "image3": "/img/flipprincipal.png",
     "image4": "/img/flipprincipal.png",
@@ -40,24 +40,11 @@
   },
   {
     "id": 4,
-    "name": "HydroPro",
+    "name": "Tazon",
     "category": "taza",
-    "image": "/img/jarroRosa.png",
-    "image2": "/img/flipprincipal.png",
-    "image3": "/img/flipprincipal.png",
-    "image4": "/img/flipprincipal.png",
-    "description": "Diseñado con precisión para los amantes de la hidratación, este vaso combina estilo y funcionalidad.",
-    "model": "Model 4788",
-    "price": "$ 668",
-    "deleted": false
-  },
-  {
-    "id": 5,
-    "name": "Vaso termico colorido",
-    "category": "altaCapacidad",
-    "image": "1695693821593.jpg",
+    "image": "1695363669635.webp",
     "description": "Plastico",
-    "price": "222222",
+    "price": "5555",
     "deleted": false
   }
 ]
